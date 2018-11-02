@@ -143,15 +143,15 @@
     </message>
     <message>
         <source>Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.</source>
-        <translation type="unfinished"></translation>
+        <translation type="把密钥储存在安全的地方（如硬盘、USB驱动器、打印的副本等）并妥善保管。"></translation>
     </message>
     <message>
         <source>Save recovery key to file</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存恢复密钥到文件"></translation>
     </message>
     <message>
         <source>Save to file</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存的文件"></translation>
     </message>
     <message>
         <source>Copy recovery key to clipboard</source>
