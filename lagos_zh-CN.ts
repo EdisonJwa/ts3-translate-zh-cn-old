@@ -135,11 +135,11 @@
     <name>AccountRecoveryDialog</name>
     <message>
         <source>Save Recovery Key</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存恢复密钥"></translation>
     </message>
     <message>
         <source>This is your recovery key used for the encryption of your data. It is required to recover your data if you ever forget your account password.</source>
-        <translation type="unfinished"></translation>
+        <translation type="您的恢复密钥用于加密您的数据。如果您忘记了账户密码，需要用它来恢复您的数据。"></translation>
     </message>
     <message>
         <source>Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.</source>
