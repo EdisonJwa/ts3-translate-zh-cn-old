@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Version:</source>
-        <translation type="软件版本："></translation>
+        <translation type="版本："></translation>
     </message>
     <message>
         <source>Qt Version:</source>
@@ -34,7 +34,7 @@
     </message>
     <message>
         <source>License</source>
-        <translation type="许可"></translation>
+        <translation type="许可证"></translation>
     </message>
     <message>
         <source>About %1</source>
@@ -69,7 +69,7 @@
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="保持登录状态"></translation>
+        <translation type="在此电脑上保持登录状态"></translation>
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
@@ -112,11 +112,11 @@
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Teamspeak 账户功能："></translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="Teamspeak 账户功能："></translation>
+        <translation type="同步"></translation>
     </message>
     <message>
         <source>Continue without logging in</source>
@@ -139,7 +139,7 @@
     </message>
     <message>
         <source>This is your recovery key used for the encryption of your data. It is required to recover your data if you ever forget your account password.</source>
-        <translation type="您的恢复密钥用于加密您的数据。如果您忘记了账户密码，需要用它来恢复您的数据。"></translation>
+        <translation type="这是您用来恢复加密数据的密钥。当您忘记了您的账户密码时需要用它来恢复您的数据。"></translation>
     </message>
     <message>
         <source>Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.</source>
