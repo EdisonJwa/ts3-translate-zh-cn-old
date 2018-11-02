@@ -25,7 +25,7 @@
         <translation type="&lt;b&gt;翻译原件版本：&lt;/b&gt; 3.2.3(2018-10-30)&lt;br&gt;
             &lt;b&gt;翻译版本：&lt;/b&gt; v1.0&lt;br&gt;
             &lt;b&gt;翻译by：&lt;a href=&quot;https://www.wevg.org&quot;&gt;@EdisonJwa&lt;/a&gt;&lt;br&gt;
-            本项目发布在GitHub,如有任何问题可前往 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translation-zh-cn&quot;&gt;项目地址&lt;/a&gt; 提出意见&lt;br&gt;
+            本项目发布在 GitHub ,如有任何问题可前往 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translation-zh-cn&quot;&gt;项目地址&lt;/a&gt; 提出意见&lt;br&gt;
             感谢大家的帮助 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translation-zh-cn/graphs/contributors&quot;&gt;贡献者列表&lt;/a&gt;&lt;br&gt;"></translation>
     </message>
     <message>
@@ -143,7 +143,7 @@
     </message>
     <message>
         <source>Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.</source>
-        <translation type="把密钥储存在安全的地方（如硬盘、USB驱动器、打印的副本等）并妥善保管。"></translation>
+        <translation type="把密钥储存在安全的地方 (如硬盘、USB驱动器、打印的副本等) 并妥善保管。"></translation>
     </message>
     <message>
         <source>Save recovery key to file</source>
