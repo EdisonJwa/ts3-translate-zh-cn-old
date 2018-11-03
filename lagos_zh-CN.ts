@@ -350,31 +350,32 @@ Failed to set avatar.</source>
         <source>Selected animated avatar is too large.
 The maximum allowed size is %1x%2.</source>
         <translation type="选择的动画头像过大。
-允许的最大大小是 %1x%2。"></translation>
+允许的最大尺寸是 %1x%2。"></translation>
     </message>
     <message>
         <source>Selected avatar file is too large.
 The maximum allowed file size is %1 kB.</source>
-        <translation type="unfinished"></translation>
+        <translation type="选择的头像文件过大。
+允许的最大文件大小是 %1 kB。"></translation>
     </message>
     <message>
         <source>Failed to delete avatar on server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="从服务器删除头像失败"></translation>
     </message>
 </context>
 <context>
     <name>AwayDialog</name>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存"></translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存预设"></translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="预设名："></translation>
     </message>
     <message>
         <source>This will overwrite your preset %1. Do you wish to continue?</source>
