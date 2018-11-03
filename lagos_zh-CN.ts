@@ -379,39 +379,39 @@ The maximum allowed file size is %1 kB.</source>
     </message>
     <message>
         <source>This will overwrite your preset %1. Do you wish to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="这会覆写你的预设。你希望继续吗？"></translation>
     </message>
 </context>
 <context>
     <name>BadgesSetupDialog</name>
     <message>
         <source>Setup Badges</source>
-        <translation type="unfinished"></translation>
+        <translation type="设置勋章"></translation>
     </message>
     <message>
         <source>Active badges</source>
-        <translation type="unfinished"></translation>
+        <translation type="激活勋章"></translation>
     </message>
     <message>
         <source>Available badges</source>
-        <translation type="unfinished"></translation>
+        <translation type="可用勋章"></translation>
     </message>
     <message>
         <source>Drag available badges from the list below into one of the slots.&lt;br&gt;
 Move badges in the slots to change the order in which they appear.&lt;br&gt;
 To remove a badge drag it from the slot to the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation type=""></translation>
     </message>
 </context>
 <context>
     <name>BanAddDialog</name>
     <message>
         <source>&amp;IP:</source>
-        <translation type="unfinished"></translation>
+        <translation type="IP"></translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="名字"></translation>
     </message>
     <message>
         <source>&amp;Interpret IP/Name as:</source>
@@ -443,118 +443,118 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Preset:</source>
-        <translation type="unfinished"></translation>
+        <translation type="预设"></translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存预设"></translation>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="持续时间"></translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="秒"></translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="分钟"></translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="小时"></translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation type="日"></translation>
     </message>
     <message>
         <source>permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="永久"></translation>
     </message>
     <message>
         <source>Set duration to maximum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="设置持续时间至最大值"></translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="无"></translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存预设"></translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="预设名字："></translation>
     </message>
     <message>
         <source>Save duration</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存持续时间"></translation>
     </message>
     <message>
         <source>This will overwrite your preset %1. Do you wish to continue?</source>
-        <translation type="unfinished"></translation>
+        <translation type="这会覆写你的预设。你希望继续吗？"></translation>
     </message>
     <message>
         <source>Add Ban</source>
-        <translation type="unfinished"></translation>
+        <translation type="添加封禁"></translation>
     </message>
     <message>
         <source>Edit Ban</source>
-        <translation type="unfinished"></translation>
+        <translation type="编辑黑名单"></translation>
     </message>
 </context>
 <context>
     <name>BanClientDialog</name>
     <message>
         <source>Ban Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="封禁客户端"></translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="名字："></translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation type="unfinished"></translation>
+        <translation type="理由："></translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation type="unfinished"></translation>
+        <translation type="预设："></translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="unfinished"></translation>
+        <translation type="保存预设"></translation>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation type="unfinished"></translation>
+        <translation type="持续时间"></translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="秒"></translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="分钟"></translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="unfinished"></translation>
+        <translation type="小时"></translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="unfinished"></translation>
+        <translation type="天"></translation>
     </message>
     <message>
         <source>permanent</source>
-        <translation type="unfinished"></translation>
+        <translation type="永久"></translation>
     </message>
     <message>
         <source>Set duration to maximum value</source>
-        <translation type="unfinished"></translation>
+        <translation type="设置持续时间至最大值"></translation>
     </message>
 </context>
 <context>
@@ -565,15 +565,15 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="添加"></translation>
     </message>
     <message>
         <source>Remove selected bans&lt;br&gt;(Delete)</source>
-        <translation type="unfinished"></translation>
+        <translation type="删除选中的封禁"></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="移除"></translation>
     </message>
     <message>
         <source>Edit selected ban&lt;br&gt;(Return)</source>
