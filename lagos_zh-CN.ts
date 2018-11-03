@@ -155,196 +155,202 @@
     </message>
     <message>
         <source>Copy recovery key to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="复制恢复密钥到剪贴板"></translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="复制到剪切板"></translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="下一步"></translation>
     </message>
 </context>
 <context>
     <name>AccountSetup</name>
     <message>
         <source>myTeamSpeak Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="myTeamSpeak 账户"></translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="unfinished"></translation>
+        <translation type="电子邮箱地址："></translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="密码："></translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="unfinished"></translation>
+        <translation type="在此电脑上保持登录状态"></translation>
     </message>
     <message>
         <source>Create Account</source>
-        <translation type="unfinished"></translation>
+        <translation type="创建账户"></translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="登录"></translation>
     </message>
     <message>
         <source>Account Actions:</source>
-        <translation type="unfinished"></translation>
+        <translation type="账户操作"></translation>
     </message>
     <message>
         <source>myTeamSpeak Account Features:</source>
-        <translation type="unfinished"></translation>
+        <translation type="myTeamSpeak 账户功能："></translation>
     </message>
     <message>
         <source>Automatic (Synchronize all items by default)</source>
-        <translation type="unfinished"></translation>
+        <translation type="自动（默认同步所有内容）"></translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="unfinished"></translation>
+        <translation type="同步"></translation>
     </message>
     <message>
         <source>Manual (Define which items get synchronized)</source>
-        <translation type="unfinished"></translation>
+        <translation type="手动（自定义同步内容）"></translation>
     </message>
     <message>
         <source>Badges</source>
-        <translation type="unfinished"></translation>
+        <translation type="徽章"></translation>
     </message>
     <message>
         <source>Integrations</source>
-        <translation type="unfinished"></translation>
+        <translation type="集成"></translation>
     </message>
 </context>
 <context>
     <name>AccountVerifyDialog</name>
     <message>
         <source>myTeamSpeak Account Verification</source>
-        <translation type="unfinished"></translation>
+        <translation type="myTeamSpeak 账户认证"></translation>
     </message>
     <message>
         <source>A verification email has been sent to user@email.com. 
 Check your email and follow the instructions provided to finish creating your TeamSpeak Account.
 After you verified your account, press the Login button.
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="验证邮件已经发送到 user@email.com。
+请检查您的邮箱，并根据提示完成 Teamspeak 账户的创建。
+当您完成账户验证后，请点击登录按钮。"></translation>
     </message>
     <message>
         <source>Account is not verified</source>
-        <translation type="unfinished"></translation>
+        <translation type="账户未验证"></translation>
     </message>
     <message>
         <source>Verify later</source>
-        <translation type="unfinished"></translation>
+        <translation type="稍后验证"></translation>
     </message>
     <message>
         <source>Resend Verification</source>
-        <translation type="unfinished"></translation>
+        <translation type="重发验证邮件"></translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="unfinished"></translation>
+        <translation type="后退"></translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation type="登录"></translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="错误"></translation>
     </message>
     <message>
         <source>Login Failed</source>
-        <translation type="unfinished"></translation>
+        <translation type="登录失败"></translation>
     </message>
     <message>
         <source>Invalid credentials</source>
-        <translation type="unfinished"></translation>
+        <translation type="凭据无效"></translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="确定"></translation>
     </message>
 </context>
 <context>
     <name>ApplicationSetup</name>
     <message>
         <source>Application</source>
-        <translation type="unfinished"></translation>
+        <translation type="应用程序"></translation>
     </message>
     <message>
         <source>General Application Options</source>
-        <translation type="unfinished"></translation>
+        <translation type="应用程序基本设置"></translation>
     </message>
     <message>
         <source>System Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="系统默认"></translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation type="英语"></translation>
     </message>
     <message>
         <source>To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.</source>
-        <translation type="unfinished"></translation>
+        <translation type="为了使 TeamSpeak 成为更好的程序，我们希望收集有关您的操作系统和硬件的一些统计信息。数据以匿名方式发送。"></translation>
     </message>
     <message>
         <source>The language will change after restarting TeamSpeak.
 Do you want to restart now?</source>
-        <translation type="unfinished"></translation>
+        <translation type="语言将会在重启 Teamspeak 后生效。
+您要现在重启吗？"></translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="信息"></translation>
     </message>
     <message>
         <source>All confirmations were reset.</source>
-        <translation type="unfinished"></translation>
+        <translation type="所有的确认对话框已重置。"></translation>
     </message>
     <message>
         <source>Beta channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="测试频道"></translation>
     </message>
     <message>
         <source>You are switching to the beta update channel.
 The beta releases are meant for testing and may be unstable.</source>
-        <translation type="unfinished"></translation>
+        <translation type="您将切换到测试版更新频道。
+测试版本是为了测试，可能会导致不稳定。"></translation>
     </message>
 </context>
 <context>
     <name>AreYouSureDialog</name>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation type="不再显示"></translation>
     </message>
 </context>
 <context>
     <name>AvatarManager</name>
     <message>
         <source>Select Avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="设置头像"></translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="错误"></translation>
     </message>
     <message>
         <source>Invalid image selected.
 Failed to set avatar.</source>
-        <translation type="unfinished"></translation>
+        <translation type="选择的图像无效。
+设置头像失败。"></translation>
     </message>
     <message>
         <source>Selected animated avatar is too large.
 The maximum allowed size is %1x%2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="选择的动画头像过大。
+允许的最大大小是 %1x%2。"></translation>
     </message>
     <message>
         <source>Selected avatar file is too large.
