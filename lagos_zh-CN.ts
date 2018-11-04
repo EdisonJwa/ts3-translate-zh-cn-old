@@ -400,46 +400,48 @@ The maximum allowed file size is %1 kB.</source>
         <source>Drag available badges from the list below into one of the slots.&lt;br&gt;
 Move badges in the slots to change the order in which they appear.&lt;br&gt;
 To remove a badge drag it from the slot to the list below.</source>
-        <translation type=""></translation>
+        <translation type="将下方列表中可用的徽章拖拽到其中一个槽位中。&lt;br&gt;
+移动槽位中的徽章来改变它们的显示顺序。&lt;br&gt;
+要移除徽章，请将其从槽位拖拽至下方列表中。"></translation>
     </message>
 </context>
 <context>
     <name>BanAddDialog</name>
     <message>
         <source>&amp;IP:</source>
-        <translation type="IP"></translation>
+        <translation type="&amp;IP："></translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="名字"></translation>
+        <translation type="&amp;名字："></translation>
     </message>
     <message>
         <source>&amp;Interpret IP/Name as:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;IP/名字解释为："></translation>
     </message>
     <message>
         <source>Wildcard ipv4</source>
-        <translation type="unfinished"></translation>
+        <translation type="IPv4 通配符"></translation>
     </message>
     <message>
         <source>Wildcard ipv6</source>
-        <translation type="unfinished"></translation>
+        <translation type="IPv6 通配符"></translation>
     </message>
     <message>
         <source>Fixed String</source>
-        <translation type="unfinished"></translation>
+        <translation type="固定字符串"></translation>
     </message>
     <message>
         <source>Regular Expression</source>
-        <translation type="unfinished"></translation>
+        <translation type="正则表达式"></translation>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;UID："></translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation type="unfinished"></translation>
+        <translation type="原因："></translation>
     </message>
     <message>
         <source>Preset:</source>
@@ -561,7 +563,7 @@ To remove a badge drag it from the slot to the list below.</source>
     <name>BanList</name>
     <message>
         <source>Add new ban&lt;br&gt;(Ctrl+N)</source>
-        <translation type="unfinished"></translation>
+        <translation type="新增封禁&lt;br&gt;(Ctrl+N)"></translation>
     </message>
     <message>
         <source>Add</source>
@@ -569,7 +571,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Remove selected bans&lt;br&gt;(Delete)</source>
-        <translation type="删除选中的封禁"></translation>
+        <translation type="移除选中的封禁&lt;br&gt;(Delete)"></translation>
     </message>
     <message>
         <source>Remove</source>
@@ -577,11 +579,11 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Edit selected ban&lt;br&gt;(Return)</source>
-        <translation type="unfinished"></translation>
+        <translation type="编辑选中的封禁&lt;br&gt;(Return)"></translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="unfinished"></translation>
+        <translation type="编辑"></translation>
     </message>
     <message>
         <source>Search bans by text&lt;br&gt;(Ctrl+F)</source>
