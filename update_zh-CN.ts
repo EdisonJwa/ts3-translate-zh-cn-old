@@ -5,31 +5,31 @@
     <name>MainWindow</name>
     <message>
         <source>TeamSpeak 3 Client Update</source>
-        <translation type="unfinished"></translation>
+        <translation type="Teamspeak 3 客户端升级"></translation>
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="详情"></translation>
     </message>
     <message>
         <source>Stable</source>
-        <translation type="unfinished"></translation>
+        <translation type="正式版"></translation>
     </message>
     <message>
         <source>Beta</source>
-        <translation type="unfinished"></translation>
+        <translation type="Beta"></translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished"></translation>
+        <translation type="Alpha"></translation>
     </message>
     <message>
         <source>Update to TeamSpeak %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="升级到 Teamspeak %1"></translation>
     </message>
     <message>
         <source>You are currently on &lt;strong&gt;%1 channel&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="您当前在 &lt;strong&gt;%1 频道&lt;/strong&gt;."></translation>
     </message>
     <message>
         <source>Step one: Updating updater</source>
