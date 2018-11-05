@@ -413,11 +413,11 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="&amp;名字："></translation>
+        <translation type="&amp;名称："></translation>
     </message>
     <message>
         <source>&amp;Interpret IP/Name as:</source>
-        <translation type="&amp;IP/名字解释为："></translation>
+        <translation type="&amp;IP/名称解释为："></translation>
     </message>
     <message>
         <source>Wildcard ipv4</source>
@@ -489,7 +489,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="预设名字："></translation>
+        <translation type="预设名称："></translation>
     </message>
     <message>
         <source>Save duration</source>
@@ -505,7 +505,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Edit Ban</source>
-        <translation type="编辑黑名单"></translation>
+        <translation type="编辑封禁"></translation>
     </message>
 </context>
 <context>
@@ -516,7 +516,7 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="名字："></translation>
+        <translation type="名称："></translation>
     </message>
     <message>
         <source>Reason:</source>
@@ -587,289 +587,292 @@ To remove a badge drag it from the slot to the list below.</source>
     </message>
     <message>
         <source>Search bans by text&lt;br&gt;(Ctrl+F)</source>
-        <translation type="unfinished"></translation>
+        <translation type="按文字搜索封禁列表"></translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="刷新"></translation>
     </message>
     <message>
         <source>Show only bans created by you</source>
-        <translation type="unfinished"></translation>
+        <translation type="只显示您添加的封禁"></translation>
     </message>
     <message>
         <source>Show only own bans</source>
-        <translation type="unfinished"></translation>
+        <translation type="只显示自己添加的封禁"></translation>
     </message>
     <message>
         <source>Mark bans created by you as bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="以加粗的方式显示您添加的封禁"></translation>
     </message>
     <message>
         <source>Highlight own bans</source>
-        <translation type="unfinished"></translation>
+        <translation type="高亮自己添加的封禁"></translation>
     </message>
     <message>
         <source>Name/IP/UID</source>
-        <translation type="unfinished"></translation>
+        <translation type="名称 / IP / UID"></translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="名称"></translation>
     </message>
     <message>
         <source>IP</source>
-        <translation type="unfinished"></translation>
+        <translation type="IP"></translation>
     </message>
     <message>
         <source>UID</source>
-        <translation type="unfinished"></translation>
+        <translation type="UID"></translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"></translation>
+        <translation type="原因"></translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="unfinished"></translation>
+        <translation type="创建者"></translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation type="创建"></translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation type="unfinished"></translation>
+        <translation type="到期"></translation>
     </message>
     <message>
         <source>Enforced</source>
-        <translation type="unfinished"></translation>
+        <translation type="强制"></translation>
     </message>
     <message>
         <source>infinite</source>
-        <translation type="unfinished"></translation>
+        <translation type="无限"></translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="unfinished"></translation>
+        <translation type="姓氏"></translation>
     </message>
     <message>
         <source>Your ban was successfully added.</source>
-        <translation type="unfinished"></translation>
+        <translation type="您的封禁添加成功"></translation>
     </message>
     <message>
         <source>Insufficient permissions...</source>
-        <translation type="unfinished"></translation>
+        <translation type="权限不足"></translation>
     </message>
     <message>
         <source>You don&apos;t have the permission to edit ban entries from other users.
 Inserting a modified copy instead.</source>
-        <translation type="unfinished"></translation>
+        <translation type="您没有权限编辑其他用户的禁止条目。
+插入修改后的副本代替。"></translation>
     </message>
     <message>
         <source>Ban List - %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="黑名单列表 - %1"></translation>
     </message>
     <message>
         <source>Ban List</source>
-        <translation type="unfinished"></translation>
+        <translation type="黑名单列表"></translation>
     </message>
     <message>
         <source>Delete bans</source>
-        <translation type="unfinished"></translation>
+        <translation type="删除封禁"></translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the selected ban(s)?</source>
-        <translation type="unfinished">
+        <translation type="你真的想删除所选择的封禁吗？">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>You have insufficient permissions to view the ban list.</source>
-        <translation type="unfinished"></translation>
+        <translation type="您没有足够的权限来查看黑名单列表。"></translation>
     </message>
 </context>
 <context>
     <name>BookmarksManager</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="书签"></translation>
     </message>
     <message>
         <source>myTeamSpeak Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="myTeamSpeak 书签"></translation>
     </message>
     <message>
         <source>Synchronized Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="同步书签"></translation>
     </message>
     <message>
         <source>Local Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="本地书签"></translation>
     </message>
     <message>
         <source>Show ServerQuery Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="显示 ServerQuery 客户端"></translation>
     </message>
     <message>
         <source>Automatically connect to this server when starting TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation type="启动 TeamSpeak 时自动连接到此服务器"></translation>
     </message>
     <message>
         <source>Connect on Startup</source>
-        <translation type="unfinished"></translation>
+        <translation type="启动时连接"></translation>
     </message>
     <message>
         <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
-        <translation type="unfinished"></translation>
+        <translation type="发送您的 myTeamSpeak ID 以便于授予您访问Twitch集成和其他服务等功能的权限"></translation>
     </message>
     <message>
         <source>Send myTeamSpeak ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="发送myTeamSpeak ID"></translation>
     </message>
     <message>
         <source>Server Nickname or &amp;Address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="服务器昵称或&amp;地址："></translation>
     </message>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
-        <translation type="unfinished"></translation>
+        <translation type="TeamSpeak 3服务器的昵称，主机名或IP，
+例如：voice.teamspeak.com:9987"></translation>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation type="语音包："></translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;身份："></translation>
     </message>
     <message>
         <source>Identity to use when connecting to the server</source>
-        <translation type="unfinished"></translation>
+        <translation type="连接到服务器时使用的身份"></translation>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation type="热键配置："></translation>
     </message>
     <message>
         <source>Server &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="服务器 &amp;密码："></translation>
     </message>
     <message>
         <source>Server password (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="服务器密码（选填）"></translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="登录时加入此频道（选填）"></translation>
     </message>
     <message>
         <source>Make current channel the default channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="将当前频道设为默认频道"></translation>
     </message>
     <message>
         <source>&amp;Default Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;默认频道："></translation>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;播放配置："></translation>
     </message>
     <message>
         <source>Playback profile used for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="用于此服务器的播放配置"></translation>
     </message>
     <message>
         <source>Default Channel &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="默认频道&amp;密码："></translation>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="默认频道密码（可选）"></translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;昵称："></translation>
     </message>
     <message>
         <source>Your requested nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="您心仪的昵称："></translation>
     </message>
     <message>
         <source>Bookmark Name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="书签名称："></translation>
     </message>
     <message>
         <source>Custom description for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="此服务器的自定义说明"></translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;昵称发音："></translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="您的昵称的发音（选填）"></translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;录音配置："></translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="用于此服务器的录音配置"></translation>
     </message>
     <message>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation type="添加书签"></translation>
     </message>
     <message>
         <source>Add Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="添加文件夹"></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="移除"></translation>
     </message>
 </context>
 <context>
     <name>CacheClearer</name>
     <message>
         <source>Clear Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除设置"></translation>
     </message>
     <message>
         <source>Clear Logs</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除日志"></translation>
     </message>
     <message>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除缓存"></translation>
     </message>
     <message>
         <source>Clear Chats</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除聊天记录"></translation>
     </message>
     <message>
         <source>Clear Crashdumps</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除崩溃转储文件"></translation>
     </message>
     <message>
         <source>Cache and chats of currently connected
 servers will not be cleared.</source>
-        <translation type="unfinished"></translation>
+        <translation type="当前连接的缓存和聊天
+服务器不会被清除。"></translation>
     </message>
 </context>
 <context>
     <name>CaptureSoundSetupDialog</name>
     <message>
         <source>Capture</source>
-        <translation type="unfinished"></translation>
+        <translation type="录音"></translation>
     </message>
     <message>
         <source>Configure the Capture Sound System</source>
-        <translation type="unfinished"></translation>
+        <translation type="配置录音系统"></translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Push-To-Talk&lt;/strong&gt; will only enable your microphone when your assigned hotkey is pressed and deactivate the microphone when your assigned hotkey is released. Click on the &amp;quot;No Hotkey Assigned&amp;quot; button if you are configuring Push-To-Talk for the first time.&lt;/p&gt;</source>
