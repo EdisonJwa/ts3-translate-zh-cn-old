@@ -1071,77 +1071,77 @@ servers will not be cleared.</source>
     <name>ChannelGroupsOfClientDialog</name>
     <message>
         <source>Channel Groups of Client</source>
-        <translation type="unfinished"></translation>
+        <translation type="客户端频道组"></translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="重新加载"></translation>
     </message>
     <message>
         <source>Remove all Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation type="移除全部频道组"></translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="频道"></translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation type="频道组"></translation>
     </message>
 </context>
 <context>
     <name>ChannelSelectionDialog</name>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="重新加载"></translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="添加"></translation>
     </message>
     <message>
         <source>Channel Group: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="频道组：%1"></translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="未知"></translation>
     </message>
 </context>
 <context>
     <name>ChatLineEdit</name>
     <message>
         <source>Chat input</source>
-        <translation type="unfinished"></translation>
+        <translation type="聊天输入"></translation>
     </message>
     <message>
         <source>Enter Chat Message...</source>
-        <translation type="unfinished"></translation>
+        <translation type="输入聊天内容……"></translation>
     </message>
     <message>
         <source>Paste &amp;&amp; Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="粘贴并发送"></translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation type="格式"></translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="加粗"></translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="斜体"></translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation type="下划线"></translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="颜色"></translation>
     </message>
 </context>
 <context>
