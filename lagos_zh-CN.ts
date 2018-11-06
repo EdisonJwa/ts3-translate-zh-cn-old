@@ -228,7 +228,7 @@
         <translation type="myTeamSpeak 账户认证"></translation>
     </message>
     <message>
-        <source>A verification email has been sent to user@email.com. 
+        <source>A verification email has been sent to user@email.com.
 Check your email and follow the instructions provided to finish creating your TeamSpeak Account.
 After you verified your account, press the Login button.
 </source>
@@ -916,155 +916,155 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="录音配置文件&lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;已被删除。&lt;p&gt;您是否要删除分配给此配置文件的每个热键？&lt;/p&gt;"></translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountEmailDialog</name>
     <message>
         <source>Change Email</source>
-        <translation type="unfinished"></translation>
+        <translation type="更改邮箱"></translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="当前&amp;密码："></translation>
     </message>
     <message>
         <source>New &amp;Email:</source>
-        <translation type="unfinished"></translation>
+        <translation type="新邮箱："></translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountPasswordDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="更改密码"></translation>
     </message>
     <message>
         <source>&amp;New Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="新密码："></translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="当前密码："></translation>
     </message>
     <message>
         <source>&amp;Verify New Password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="验证密码："></translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountUsernameDialog</name>
     <message>
         <source>Change Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="更改用户名"></translation>
     </message>
     <message>
         <source>New &amp;Username:</source>
-        <translation type="unfinished"></translation>
+        <translation type="新用户名："></translation>
     </message>
 </context>
 <context>
     <name>ChangeLogViewer</name>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation type="更新日志"></translation>
     </message>
 </context>
 <context>
     <name>ChangeMasterPasswordDialog</name>
     <message>
         <source>Change Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="更改主密码"></translation>
     </message>
     <message>
         <source>A Master Password is used to protect sensitive information like your identities and passwords. If you create a Master Password you will be asked to enter it every time TeamSpeak starts up.</source>
-        <translation type="unfinished"></translation>
+        <translation type="主密码是用来保护您的身份、密码等机密信息。如果您创建了主密码，以后每次运行 Teamspeak 都需要输入它。"></translation>
     </message>
     <message>
         <source>If you forget your Master Password your sensitive information can never be retrieved. Please make sure to remember your Master Password carefully! Your password must be at least 6 characters long.</source>
-        <translation type="unfinished"></translation>
+        <translation type="如果您忘记了主密码，将无法找回您的账户信息。请务必记住您的主密码！主密码至少为六位字符。"></translation>
     </message>
     <message>
         <source>Current password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="当前密码："></translation>
     </message>
     <message>
         <source>Enter new password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="输入新密码："></translation>
     </message>
     <message>
         <source>Re-enter password:</source>
-        <translation type="unfinished"></translation>
+        <translation type="再次输入密码："></translation>
     </message>
     <message>
         <source>Remove Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="删除主密码"></translation>
     </message>
     <message>
         <source>Set Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="设置主密码"></translation>
     </message>
 </context>
 <context>
     <name>ChannelDescTextEdit</name>
     <message>
         <source>Channel Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="频道描述"></translation>
     </message>
 </context>
 <context>
     <name>ChannelDescriptionEditTearOffWidget</name>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="加粗"></translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="斜体"></translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation type="下划线"></translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="unfinished"></translation>
+        <translation type="颜色"></translation>
     </message>
     <message>
         <source>Press Button to &quot;Preview&quot; the changes in channel info.</source>
-        <translation type="unfinished"></translation>
+        <translation type="点击“预览”按钮，可以在频道信息中查看效果。"></translation>
     </message>
     <message>
         <source>Channel Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="频道描述"></translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="unfinished"></translation>
+        <translation type="预览"></translation>
     </message>
 </context>
 <context>
     <name>ChannelEditTearOffWidget</name>
     <message>
         <source>Channel Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="频道描述"></translation>
     </message>
     <message>
         <source>Toggle bbCode and WYSIWYG display</source>
-        <translation type="unfinished"></translation>
+        <translation type="切换 bbCode 和 WYSIWYG 显示"></translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="unfinished"></translation>
+        <translation type="加粗"></translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="unfinished"></translation>
+        <translation type="斜体"></translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="unfinished"></translation>
+        <translation type="下划线"></translation>
     </message>
 </context>
 <context>
