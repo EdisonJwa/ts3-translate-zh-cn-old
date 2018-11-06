@@ -876,43 +876,43 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Push-To-Talk&lt;/strong&gt; will only enable your microphone when your assigned hotkey is pressed and deactivate the microphone when your assigned hotkey is released. Click on the &amp;quot;No Hotkey Assigned&amp;quot; button if you are configuring Push-To-Talk for the first time.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;p&gt;&lt;strong&gt;按键通话&lt;/strong&gt; 当按下指定热键时启用麦克风，释放时关闭麦克风。如为首次配置按键通话，请单击 &amp;quot;没有指定热键&amp;quot; 按钮&lt;/p&gt;"></translation>
     </message>
     <message>
         <source>&lt;p&gt;With &lt;strong&gt;Continuous Transmission&lt;/strong&gt; voice data is constantly transmitted. It is recommended to use Push-To-Talk or Voice Activation Detection instead to lower bandwidth usage.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;p&gt;&lt;strong&gt;持续通话&lt;/strong&gt;时 语音数据将持续进行传输。建议使用按键通话或语音激活，以节省带宽。&lt;/p&gt;"></translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Voice Activation Detection&lt;/strong&gt; automatically detects your voice the moment you begin speaking (as well as when you stop speaking) and will enable or disable your microphone accordingly. This facilitates hands-free communication through TeamSpeak.&lt;/p&gt;&lt;p&gt;This method is not recommended in noisy environments since background noise may mistakenly be detected and transmitted to other users.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;p&gt;&lt;strong&gt;语音激活&lt;/strong&gt; 会自动感应到您的说话，并自动开启/关闭麦克风，这样可以进行免提通话。&lt;/p&gt;&lt;p&gt;在嘈杂环境中不建议使用，因为背景噪音可能会被检测并传输给其他人。&lt;/p&gt;"></translation>
     </message>
     <message>
         <source>Voice Test is still active...</source>
-        <translation type="unfinished"></translation>
+        <translation type="语音测试还在进行……"></translation>
     </message>
     <message>
         <source>&lt;p&gt;Switching the options page will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;p&gt;切换选项页面将会中止语音测试。&lt;/p&gt;&lt;p&gt;确定要继续吗？&lt;/p&gt;"></translation>
     </message>
     <message>
         <source>&lt;p&gt;Switching the profile will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;p&gt;切换配置文件将会中止语音测试。&lt;/p&gt;&lt;p&gt;确定要继续吗？&lt;/p&gt;"></translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="默认"></translation>
     </message>
     <message>
         <source>Automatically use best mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="自动选用最佳模式"></translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation type="自定义"></translation>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
-        <translation type="unfinished"></translation>
+        <translation type="删除热键……"></translation>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
