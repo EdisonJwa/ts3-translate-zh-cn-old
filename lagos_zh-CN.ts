@@ -1195,42 +1195,42 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>&lt;b&gt;*** Today&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;b&gt;*** 今天&lt;/b&gt"></translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Tomorrow %1&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;b&gt;*** 明天 %1&lt;/b&gt;"></translation>
     </message>
     <message>
         <source>End of chat history</source>
-        <translation type="unfinished"></translation>
+        <translation type="聊天记录结束"></translation>
     </message>
 </context>
 <context>
     <name>ChatTabWidget</name>
     <message>
         <source>Chat output tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="聊天输出选项卡"></translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除"></translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="关闭"></translation>
     </message>
     <message>
         <source>*** You are now talking in channel: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="*** 你正在频道："%1" 内聊天"></translation>
     </message>
     <message>
         <source>Enter Chat Message...</source>
-        <translation type="unfinished"></translation>
+        <translation type="输入聊天内容……"></translation>
     </message>
     <message>
         <source>%1 rejoined chat.</source>
-        <translation type="unfinished"></translation>
+        <translation type="%1 重新加入聊天"></translation>
     </message>
     <message>
         <source>Chat partner disconnected out of view.</source>
