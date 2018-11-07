@@ -1148,50 +1148,50 @@ servers will not be cleared.</source>
     <name>ChatSetupDialog</name>
     <message>
         <source>Chat</source>
-        <translation type="unfinished"></translation>
+        <translation type="聊天"></translation>
     </message>
     <message>
         <source>Configure the Chat Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="配置聊天选项卡"></translation>
     </message>
 </context>
 <context>
     <name>ChatTab</name>
     <message>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除"></translation>
     </message>
     <message>
         <source>Show Emoticons</source>
-        <translation type="unfinished"></translation>
+        <translation type="显示表情符号"></translation>
     </message>
     <message>
         <source>Show Line Markers</source>
-        <translation type="unfinished"></translation>
+        <translation type="显示行标记"></translation>
     </message>
     <message>
         <source>*** Chat begins %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="*** 聊天开始于 %1 %2"></translation>
     </message>
     <message>
         <source>*** Log begins %1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="*** 日志开始于 %1 %2"></translation>
     </message>
     <message>
         <source>Invalid channel</source>
-        <translation type="unfinished"></translation>
+        <translation type="无效频道"></translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="未知"></translation>
     </message>
     <message>
         <source>*** Chat begins</source>
-        <translation type="unfinished"></translation>
+        <translation type="*** 聊天开始"></translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Yesterday&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="&lt;b&gt;*** 昨天&lt;/b&gt;"></translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Today&lt;/b&gt;</source>
