@@ -25,7 +25,7 @@
         <translation type="&lt;b&gt;翻译原件版本：&lt;/b&gt; 3.2.3(2018-10-30)&lt;br&gt;
             &lt;b&gt;翻译版本：&lt;/b&gt; v1.0&lt;br&gt;
             &lt;b&gt;翻译by：&lt;a href=&quot;https://www.wevg.org&quot;&gt;@EdisonJwa&lt;/a&gt;&lt;br&gt;
-            本项目发布在 GitHub ,如有任何问题可前往 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translation-zh-cn&quot;&gt;项目地址&lt;/a&gt; 提出意见&lt;br&gt;
+            本项目发布在 GitHub ,如有任何问题可前往 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translate-zh-cn&quot;&gt;项目地址&lt;/a&gt; 提出意见&lt;br&gt;
             感谢大家的帮助 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translation-zh-cn/graphs/contributors&quot;&gt;贡献者列表&lt;/a&gt;&lt;br&gt;"></translation>
     </message>
     <message>
@@ -1234,41 +1234,41 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Chat partner disconnected out of view.</source>
-        <translation type="unfinished"></translation>
+        <translation type="聊天对象断开连接"></translation>
     </message>
     <message>
         <source>Close Private Tabs</source>
-        <translation type="unfinished"></translation>
+        <translation type="关闭全部私聊标签页"></translation>
     </message>
     <message>
         <source>Close Private Tabs but this</source>
-        <translation type="unfinished"></translation>
+        <translation type="关闭除此之外全部私聊标签页"></translation>
     </message>
     <message>
         <source>Your chat partner has disconnected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="您的聊天对象断开连接"></translation>
     </message>
 </context>
 <context>
     <name>ChooseNickname</name>
     <message>
         <source>Too short</source>
-        <translation type="unfinished"></translation>
+        <translation type="太短"></translation>
     </message>
 </context>
 <context>
     <name>ChooseNicknameDialog</name>
     <message>
         <source>Choose Your Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="选择您的昵称"></translation>
     </message>
     <message>
         <source>This is your identifying name which is displayed to other users.</source>
-        <translation type="unfinished"></translation>
+        <translation type="这是您向其他用户显示的昵称"></translation>
     </message>
     <message>
         <source>Choose your nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation type="输入您的昵称"></translation>
     </message>
 </context>
 <context>
