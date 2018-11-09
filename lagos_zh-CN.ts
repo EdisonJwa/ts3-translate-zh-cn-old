@@ -1275,97 +1275,97 @@ servers will not be cleared.</source>
     <name>ClientDatabaseListViewer</name>
     <message>
         <source>All Clients</source>
-        <translation type="unfinished"></translation>
+        <translation type="所有用户"></translation>
     </message>
     <message>
         <source>Clear search field</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除搜索字段"></translation>
     </message>
     <message>
         <source>&amp;Search by</source>
-        <translation type="unfinished"></translation>
+        <translation type="查找通过"></translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="昵称"></translation>
     </message>
     <message>
         <source>Unique Identifier</source>
-        <translation type="unfinished"></translation>
+        <translation type="UID"></translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="unfinished"></translation>
+        <translation type="更多"></translation>
     </message>
     <message>
         <source>Last Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="最近使用的昵称"></translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="unfinished"></translation>
+        <translation type="创建于"></translation>
     </message>
     <message>
         <source>Last</source>
-        <translation type="unfinished"></translation>
+        <translation type="最近登录"></translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="unfinished"></translation>
+        <translation type="登录次数"></translation>
     </message>
     <message>
         <source>Last IP</source>
-        <translation type="unfinished"></translation>
+        <translation type="最近登录IP"></translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="描述"></translation>
     </message>
     <message>
         <source>All clients already received</source>
-        <translation type="unfinished"></translation>
+        <translation type="所有客户都已收到"></translation>
     </message>
     <message>
         <source>No clients found</source>
-        <translation type="unfinished"></translation>
+        <translation type="没有找到用户"></translation>
     </message>
     <message>
         <source>Client deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="用户已删除"></translation>
     </message>
     <message>
         <source>This client is currently online and cannot be deleted.</source>
-        <translation type="unfinished"></translation>
+        <translation type="此客户端当前在线，无法删除。"></translation>
     </message>
     <message>
         <source>Copy Nickname to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="复制昵称到剪切板"></translation>
     </message>
     <message>
         <source>Copy Unique ID to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="复制UID到剪切板"></translation>
     </message>
     <message>
         <source>Copy Last IP to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation type="复制最近登录IP到剪切板"></translation>
     </message>
     <message>
         <source>Ban client</source>
-        <translation type="unfinished"></translation>
+        <translation type="封禁用户"></translation>
     </message>
     <message>
         <source>Delete avatar</source>
-        <translation type="unfinished"></translation>
+        <translation type="删除头像"></translation>
     </message>
     <message numerus="yes">
         <source>Delete client(s)</source>
-        <translation type="unfinished">
+        <translation type="删除用户">
             <numerusform></numerusform>
         </translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="确认"></translation>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;all selected clients&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
