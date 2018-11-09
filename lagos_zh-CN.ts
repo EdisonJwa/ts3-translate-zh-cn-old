@@ -1369,130 +1369,132 @@ servers will not be cleared.</source>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;all selected clients&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation type="永久删除&lt;strong&gt;所有选定的客户端&lt;/strong&gt;？&lt;br&gt;此操作无法撤消。"></translation>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;%1&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
-        <translation type="unfinished"></translation>
+        <translation type="永久删除 &lt;strong&gt;%1&lt;/strong&gt;？&lt;br&gt;此操作无法撤消。"></translation>
     </message>
     <message>
         <source>At least three characters required</source>
-        <translation type="unfinished"></translation>
+        <translation type="至少需要三个字符"></translation>
     </message>
     <message>
         <source>Invalid search pattern</source>
-        <translation type="unfinished"></translation>
+        <translation type="搜索模式无效"></translation>
     </message>
 </context>
 <context>
     <name>ClientLogView</name>
     <message>
         <source>Client Log</source>
-        <translation type="unfinished"></translation>
+        <translation type="客户端日志"></translation>
     </message>
     <message>
         <source>&amp;Critical</source>
-        <translation type="unfinished"></translation>
+        <translation type="严重"></translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="unfinished"></translation>
+        <translation type="错误"></translation>
     </message>
     <message>
         <source>&amp;Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation type="警告"></translation>
     </message>
     <message>
         <source>&amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation type="信息"></translation>
     </message>
     <message>
         <source>&amp;Debug</source>
-        <translation type="unfinished"></translation>
+        <translation type="调试"></translation>
     </message>
     <message>
         <source>&amp;Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation type="高亮"></translation>
     </message>
     <message>
         <source>&amp;Exclude filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="清除过滤"></translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="unfinished"></translation>
+        <translation type="搜索"></translation>
     </message>
     <message>
         <source>Search text in log.
 Press Enter to search next location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="在日志中搜索文本。
+按Enter键搜索下一个。"></translation>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="unfinished"></translation>
+        <translation type="过滤器："></translation>
     </message>
     <message>
         <source>Only show lines matching filter text.
 Press Enter to apply filter.</source>
-        <translation type="unfinished"></translation>
+        <translation type="仅显示与过滤器文本匹配的内容。
+按Enter键应用过滤器。"></translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="unfinished"></translation>
+        <translation type="区分大小写"></translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="unfinished"></translation>
+        <translation type="上一个"></translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="unfinished"></translation>
+        <translation type="下一个"></translation>
     </message>
     <message>
         <source>Mark</source>
-        <translation type="unfinished"></translation>
+        <translation type="标记"></translation>
     </message>
 </context>
 <context>
     <name>CollisionResolver</name>
     <message>
         <source>Resolve Collisions</source>
-        <translation type="unfinished"></translation>
+        <translation type="解决冲突"></translation>
     </message>
     <message>
         <source>Hide passwords</source>
-        <translation type="unfinished"></translation>
+        <translation type="隐藏密码"></translation>
     </message>
     <message>
         <source>Try to apply decision to all collisions</source>
-        <translation type="unfinished"></translation>
+        <translation type="尝试解决全部错误"></translation>
     </message>
 </context>
 <context>
     <name>ComplainView</name>
     <message>
         <source>Complaints List</source>
-        <translation type="unfinished"></translation>
+        <translation type="投诉列表"></translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished"></translation>
+        <translation type="移除"></translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished"></translation>
+        <translation type="刷新"></translation>
     </message>
     <message>
         <source>Target Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="投诉对象"></translation>
     </message>
     <message>
         <source>From Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation type="投诉人"></translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="unfinished"></translation>
+        <translation type="原因"></translation>
     </message>
     <message>
         <source>Client banned: %1</source>
