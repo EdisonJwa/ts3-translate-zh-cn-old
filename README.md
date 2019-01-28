@@ -1,11 +1,10 @@
-# TS3-Translation_zh-CN
-TeamSpeak 3 简体中文翻译源文件
+# Teamspeak 3 客户端中文化项目
 
-本项目目前处于早期阶段,大量字段未翻译
+本项目仍处于最早期的开发阶段
 
-## 协助翻译
-使用 Qt Linguist 程序打开ts源文件即可
+有关翻译的用词，或标点符号的使用方式请查看 [CONTRIBUTING](https://github.com/EdisonJwa/ts3-translation-zh-cn/blob/master/CONTRIBUTING.md) 文件 (暂定)
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### 一些翻译上的约定（暂定）
 1. 带快捷键的条目，如 `&Options` 需翻译为 `名称(快捷键)` 的形式，小括号，不带空格: `设置(&O)`
@@ -20,8 +19,17 @@ TeamSpeak 3 简体中文翻译源文件
 =======
 ## 由于现在Teamspeak 官网开始支持中文，不确定teamspeak5 是否会直接官方支持简体中文，故暂停翻译至teamspeak5发布(按照官方之前的说法会在2018 Q4发布)
 ##### （按照论坛内的推测，会在12月中旬发布
+=======
+## 由于现在Teamspeak 官网开始支持中文，不确定teamspeak5 是否会直接官方支持简体中文，故暂停翻译至teamspeak5发布(按照官方之前的说法会在2018 Q4发布)
+
+>>>>>>> parent of 207af10... Merge
 
 https://www.teamspeak.com/zh-CN/
 
 ![TeamSpeak HomePage(zh-CN)](https://uv.uy/1vpfV)
+<<<<<<< HEAD
 >>>>>>> parent of 62df611... Update README.md
+=======
+
+TS5 Beta 申请(到目前为止，没收到过邮件) https://www.teamspeak.com/zh-CN/downloads/#ts5
+>>>>>>> parent of 207af10... Merge
