@@ -1,1527 +1,1523 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="zh_CN">
 <context>
     <name>AboutDialog</name>
     <message>
         <source>About</source>
-        <translation type="关于"></translation>
+        <translation>关于</translation>
     </message>
     <message>
         <source>Version:</source>
-        <translation type="版本："></translation>
+        <translation>软件版本：</translation>
     </message>
     <message>
         <source>Qt Version:</source>
-        <translation type="Qt版本："></translation>
+        <translation>Qt 版本：</translation>
     </message>
     <message>
         <source>For support please visit our &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;forum&lt;/a&gt;</source>
-        <translation type="技术支持请访问&lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt;"></translation>
+        <translation>如需技术支援，请访问 &lt;a href=&quot;http://forum.teamspeak.com&quot;&gt;官方论坛&lt;/a&gt; （英语）</translation>
     </message>
     <message>
         <source>PLACEHOLDER</source>
         <extracomment>Translators can add their names, copyright notice or links here. If the text stays &quot;PLACEHOLDER&quot;, the label will be hidden.</extracomment>
-        <translation type="&lt;b&gt;翻译原件版本：&lt;/b&gt; 3.2.3(2018-10-30)&lt;br&gt;
-            &lt;b&gt;翻译版本：&lt;/b&gt; v1.0&lt;br&gt;
-            &lt;b&gt;翻译by：&lt;a href=&quot;https://www.wevg.org&quot;&gt;@EdisonJwa&lt;/a&gt;&lt;br&gt;
-            本项目发布在 GitHub ,如有任何问题可前往 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translate-zh-cn&quot;&gt;项目地址&lt;/a&gt; 提出意见&lt;br&gt;
-            感谢大家的帮助 &lt;a href=&quot;https://github.com/EdisonJwa/ts3-translation-zh-cn/graphs/contributors&quot;&gt;贡献者列表&lt;/a&gt;&lt;br&gt;"></translation>
+        <translation>&lt;b&gt;简体中文化 By:&lt;/b&gt; &lt;a href=&quot;http://blog.jtcat.com&quot;&gt;寂听&lt;/a&gt;&lt;br&gt;由于本人水平有限，欢迎到&lt;a href=&quot;https://github.com/jitingcn/TS3-Translation_zh-CN&quot;&gt;GitHub项目主页&lt;/a&gt;提出修改意见。&lt;br&gt;感谢所有参与项目的同学</translation>
     </message>
     <message>
         <source>Copyright</source>
-        <translation type="版权"></translation>
+        <translation>版权声明</translation>
     </message>
     <message>
         <source>License</source>
-        <translation type="许可证"></translation>
+        <translation>许可协议</translation>
     </message>
     <message>
         <source>About %1</source>
-        <translation type="关于 %1"></translation>
+        <translation>关于 %1</translation>
     </message>
     <message>
         <source>Copy version to clipboard</source>
-        <translation type="复制版本号到剪切板"></translation>
+        <translation>复制版本号到剪贴板</translation>
     </message>
 </context>
 <context>
     <name>AccountCreateDialog</name>
     <message>
         <source>Create your myTeamSpeak Account</source>
-        <translation type="创建您的 myTeamSpeak 账户"></translation>
+        <translation>创建您的 myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>Verify Password:</source>
-        <translation type="验证密码："></translation>
+        <translation>确认密码:</translation>
     </message>
     <message>
         <source>Email Address:</source>
-        <translation type="电子邮箱地址："></translation>
+        <translation>电子邮箱地址:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="密码："></translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Username:</source>
-        <translation type="用户名："></translation>
+        <translation>用户名:</translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="在此电脑上保持登录状态"></translation>
+        <translation>在此计算机上保持登录状态</translation>
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
-        <translation type="Teamspeak 账户功能："></translation>
+        <translation>TeamSpeak 账号功能：</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="同步"></translation>
+        <translation>同步</translation>
     </message>
     <message>
         <source>Continue without logging in</source>
-        <translation type="暂不登录"></translation>
+        <translation>暂不登录</translation>
     </message>
     <message>
         <source>Use existing account</source>
-        <translation type="使用已有账户"></translation>
+        <translation>使用现有的账号</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="创建"></translation>
+        <translation>创建</translation>
     </message>
 </context>
 <context>
     <name>AccountLoginDialog</name>
     <message>
         <source>Login to your myTeamSpeak Account</source>
-        <translation type="登录您的 myTeamSpeak 账户"></translation>
+        <translation>登录您的 myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>Email Address:</source>
-        <translation type="电子邮箱地址："></translation>
+        <translation>电子邮箱地址:</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="密码："></translation>
+        <translation>密码:</translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="保持登录状态"></translation>
+        <translation>在此计算机上保持登录状态</translation>
     </message>
     <message>
         <source>Teamspeak Account Features:</source>
-        <translation type="Teamspeak 账户功能："></translation>
+        <translation>TeamSpeak 账号功能:</translation>
     </message>
     <message>
         <source>Synchronization</source>
-        <translation type="同步"></translation>
+        <translation>同步</translation>
     </message>
     <message>
         <source>Continue without logging in</source>
-        <translation type="跳过"></translation>
+        <translation>跳过登录</translation>
     </message>
     <message>
         <source>Create Account</source>
-        <translation type="创建账户"></translation>
+        <translation>创建账号</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="登录"></translation>
+        <translation>登录</translation>
     </message>
 </context>
 <context>
     <name>AccountRecoveryDialog</name>
     <message>
         <source>Save Recovery Key</source>
-        <translation type="保存恢复密钥"></translation>
+        <translation>保存恢复密钥</translation>
     </message>
     <message>
         <source>This is your recovery key used for the encryption of your data. It is required to recover your data if you ever forget your account password.</source>
-        <translation type="这是您用来恢复加密数据的密钥。当您忘记了您的账户密码时需要用它来恢复您的数据。"></translation>
+        <translation>恢复密钥用于加密您的数据，如果您忘记了您的账号密码，则需要密钥来恢复数据。</translation>
     </message>
     <message>
         <source>Store this key in a safe place (external hard drive, USB key, printed hardcopy, etc) and keep it secret.</source>
-        <translation type="把密钥储存在安全的地方 (如硬盘、USB驱动器、打印的副本等) 并妥善保管。"></translation>
+        <translation>将此密钥存放在安全的地方（外部硬盘驱动器，USB密钥，打印的副本等）并妥善保管。</translation>
     </message>
     <message>
         <source>Save recovery key to file</source>
-        <translation type="保存恢复密钥到文件"></translation>
+        <translation>保存恢复密钥到文件</translation>
     </message>
     <message>
         <source>Save to file</source>
-        <translation type="保存的文件"></translation>
+        <translation>保存到文件</translation>
     </message>
     <message>
         <source>Copy recovery key to clipboard</source>
-        <translation type="复制恢复密钥到剪贴板"></translation>
+        <translation>复制恢复密钥到剪贴板</translation>
     </message>
     <message>
         <source>Copy to clipboard</source>
-        <translation type="复制到剪切板"></translation>
+        <translation>复制到剪贴板</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="下一步"></translation>
+        <translation>下一步</translation>
     </message>
 </context>
 <context>
     <name>AccountSetup</name>
     <message>
         <source>myTeamSpeak Account</source>
-        <translation type="myTeamSpeak 账户"></translation>
+        <translation>myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>Email:</source>
-        <translation type="电子邮箱地址："></translation>
+        <translation>电子邮箱地址：</translation>
     </message>
     <message>
         <source>Password:</source>
-        <translation type="密码："></translation>
+        <translation>密码：</translation>
     </message>
     <message>
         <source>Stay logged in on this computer</source>
-        <translation type="在此电脑上保持登录状态"></translation>
+        <translation>在此计算机上保持登录状态</translation>
     </message>
     <message>
         <source>Create Account</source>
-        <translation type="创建账户"></translation>
+        <translation>创建账号</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="登录"></translation>
+        <translation>登录</translation>
     </message>
     <message>
         <source>Account Actions:</source>
-        <translation type="账户操作"></translation>
+        <translation>账号操作：</translation>
     </message>
     <message>
         <source>myTeamSpeak Account Features:</source>
-        <translation type="myTeamSpeak 账户功能："></translation>
-    </message>
-    <message>
-        <source>Automatic (Synchronize all items by default)</source>
-        <translation type="自动（默认同步所有内容）"></translation>
-    </message>
-    <message>
-        <source>Synchronization</source>
-        <translation type="同步"></translation>
+        <translation>myTeamSpeak 账号功能：</translation>
     </message>
     <message>
         <source>Manual (Define which items get synchronized)</source>
-        <translation type="手动（自定义同步内容）"></translation>
+        <translation>手动 （自定义同步的项目）</translation>
+    </message>
+    <message>
+        <source>Synchronization</source>
+        <translation>同步</translation>
+    </message>
+    <message>
+        <source>Automatic (Synchronize all items by default)</source>
+        <translation>自动 （默认同步所有项目）</translation>
     </message>
     <message>
         <source>Badges</source>
-        <translation type="徽章"></translation>
+        <translation>徽章</translation>
     </message>
     <message>
         <source>Integrations</source>
-        <translation type="集成"></translation>
+        <translation>服务集成</translation>
     </message>
 </context>
 <context>
     <name>AccountVerifyDialog</name>
     <message>
         <source>myTeamSpeak Account Verification</source>
-        <translation type="myTeamSpeak 账户认证"></translation>
+        <translation>myTeamSpeak 账号验证</translation>
     </message>
     <message>
-        <source>A verification email has been sent to user@email.com.
+        <source>A verification email has been sent to user@email.com. 
 Check your email and follow the instructions provided to finish creating your TeamSpeak Account.
 After you verified your account, press the Login button.
 </source>
-        <translation type="验证邮件已经发送到 user@email.com。
-请检查您的邮箱，并根据提示完成 Teamspeak 账户的创建。
-当您完成账户验证后，请点击登录按钮。"></translation>
+        <translation>验证邮件已发送至 user@email.com。 
+检查您的邮箱并按照提示完成 TeamSpeak 帐户的创建。
+在验证帐户完成后，按“登录”按钮登录。</translation>
     </message>
     <message>
         <source>Account is not verified</source>
-        <translation type="账户未验证"></translation>
+        <translation>账号未验证</translation>
     </message>
     <message>
         <source>Verify later</source>
-        <translation type="稍后验证"></translation>
+        <translation>稍后验证</translation>
     </message>
     <message>
         <source>Resend Verification</source>
-        <translation type="重发验证邮件"></translation>
+        <translation>重新发送验证</translation>
     </message>
     <message>
         <source>Back</source>
-        <translation type="后退"></translation>
+        <translation>返回</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="登录"></translation>
+        <translation>登录</translation>
     </message>
 </context>
 <context>
     <name>AlertDialog</name>
     <message>
         <source>Error</source>
-        <translation type="错误"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Login Failed</source>
-        <translation type="登录失败"></translation>
+        <translation>登录失败</translation>
     </message>
     <message>
         <source>Invalid credentials</source>
-        <translation type="凭据无效"></translation>
+        <translation>无效的凭据</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="确定"></translation>
+        <translation>确定</translation>
     </message>
 </context>
 <context>
     <name>ApplicationSetup</name>
     <message>
         <source>Application</source>
-        <translation type="应用程序"></translation>
+        <translation>主程序</translation>
     </message>
     <message>
         <source>General Application Options</source>
-        <translation type="应用程序基本设置"></translation>
+        <translation>常规设置</translation>
     </message>
     <message>
         <source>System Default</source>
-        <translation type="系统默认"></translation>
+        <translation>系统默认</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="英语"></translation>
+        <translation>英语 English</translation>
     </message>
     <message>
         <source>To help make TeamSpeak a better program, we would like to collect some statistics about your operating system and hardware. The data is sent anonymously.</source>
-        <translation type="为了使 TeamSpeak 成为更好的程序，我们希望收集有关您的操作系统和硬件的一些统计信息。数据以匿名方式发送。"></translation>
+        <translation>为了使 TeamSpeak 变得更好，我们希望收集一些有关于您的操作系统和硬件配置的统计信息。这些数据将以匿名的方式发送。</translation>
     </message>
     <message>
         <source>The language will change after restarting TeamSpeak.
 Do you want to restart now?</source>
-        <translation type="语言将会在重启 Teamspeak 后生效。
-您要现在重启吗？"></translation>
+        <translation>界面语言将在重新启动 TeamSpeak 后改变。
+您想现在重启吗？</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="信息"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>All confirmations were reset.</source>
-        <translation type="所有的确认对话框已重置。"></translation>
+        <translation>所有不再提示的选项已重置。</translation>
     </message>
     <message>
         <source>Beta channel</source>
-        <translation type="测试频道"></translation>
+        <translation>测试通道</translation>
     </message>
     <message>
         <source>You are switching to the beta update channel.
 The beta releases are meant for testing and may be unstable.</source>
-        <translation type="您将切换到测试版更新频道。
-测试版本是为了测试，可能会导致不稳定。"></translation>
+        <translation>更新通道将切换为测试版本。
+该版本应仅用于测试，可能导致软件不稳定。</translation>
     </message>
 </context>
 <context>
     <name>AreYouSureDialog</name>
     <message>
         <source>Do not show again</source>
-        <translation type="不再显示"></translation>
+        <translation>不再提示</translation>
     </message>
 </context>
 <context>
     <name>AvatarManager</name>
     <message>
         <source>Select Avatar</source>
-        <translation type="设置头像"></translation>
+        <translation>选择头像</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="错误"></translation>
+        <translation>发生错误</translation>
     </message>
     <message>
         <source>Invalid image selected.
 Failed to set avatar.</source>
-        <translation type="选择的图像无效。
-设置头像失败。"></translation>
+        <translation>选择的图像无效。
+设置头像失败。</translation>
     </message>
     <message>
         <source>Selected animated avatar is too large.
 The maximum allowed size is %1x%2.</source>
-        <translation type="选择的动画头像过大。
-允许的最大尺寸是 %1x%2。"></translation>
+        <translation>选定的头像尺寸太大了。
+允许的最大大小为 %1x%2。</translation>
     </message>
     <message>
         <source>Selected avatar file is too large.
 The maximum allowed file size is %1 kB.</source>
-        <translation type="选择的头像文件过大。
-允许的最大文件大小是 %1 kB。"></translation>
+        <translation>选定的头像文件太大了。
+允许的最大文件大小为 %1 kB。</translation>
     </message>
     <message>
         <source>Failed to delete avatar on server.</source>
-        <translation type="从服务器删除头像失败"></translation>
+        <translation>无法删除服务器上的头像。</translation>
     </message>
 </context>
 <context>
     <name>AwayDialog</name>
     <message>
         <source>Save</source>
-        <translation type="保存"></translation>
+        <translation>保存</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="保存预设"></translation>
+        <translation>保存预设</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="预设名："></translation>
+        <translation>预设名称：</translation>
     </message>
     <message>
         <source>This will overwrite your preset %1. Do you wish to continue?</source>
-        <translation type="这会覆写你的预设。你希望继续吗？"></translation>
+        <translation>这将覆盖您的预设 %1。继续？</translation>
     </message>
 </context>
 <context>
     <name>BadgesSetupDialog</name>
     <message>
         <source>Setup Badges</source>
-        <translation type="设置勋章"></translation>
+        <translation>设置徽章</translation>
     </message>
     <message>
         <source>Active badges</source>
-        <translation type="激活勋章"></translation>
+        <translation>启用徽章</translation>
     </message>
     <message>
         <source>Available badges</source>
-        <translation type="可用勋章"></translation>
+        <translation>可用的徽章</translation>
     </message>
     <message>
         <source>Drag available badges from the list below into one of the slots.&lt;br&gt;
 Move badges in the slots to change the order in which they appear.&lt;br&gt;
 To remove a badge drag it from the slot to the list below.</source>
-        <translation type="将下方列表中可用的徽章拖拽到其中一个槽位中。&lt;br&gt;
-移动槽位中的徽章来改变它们的显示顺序。&lt;br&gt;
-要移除徽章，请将其从槽位拖拽至下方列表中。"></translation>
+        <translation>将下面列表中的可用徽章拖到其中一个插槽中。&lt;br&gt;
+移动插槽中的徽章以更改它们出现的顺序。&lt;br&gt;
+要删除徽章，请将其从插槽拖到下面的列表中。</translation>
     </message>
 </context>
 <context>
     <name>BanAddDialog</name>
     <message>
         <source>&amp;IP:</source>
-        <translation type="&amp;IP："></translation>
+        <translation>&amp;IP地址:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="&amp;名称："></translation>
+        <translation>名称(&amp;N):</translation>
     </message>
     <message>
         <source>&amp;Interpret IP/Name as:</source>
-        <translation type="&amp;IP/名称解释为："></translation>
+        <translation>IP/名称 解释器(&amp;I):</translation>
     </message>
     <message>
         <source>Wildcard ipv4</source>
-        <translation type="IPv4 通配符"></translation>
+        <translation>ipv4 通配符</translation>
     </message>
     <message>
         <source>Wildcard ipv6</source>
-        <translation type="IPv6 通配符"></translation>
+        <translation>ipv6 通配符</translation>
     </message>
     <message>
         <source>Fixed String</source>
-        <translation type="固定字符串"></translation>
+        <translation>字符串</translation>
     </message>
     <message>
         <source>Regular Expression</source>
-        <translation type="正则表达式"></translation>
+        <translation>正则表达式</translation>
     </message>
     <message>
         <source>&amp;Unique ID:</source>
-        <translation type="&amp;UID："></translation>
+        <translation>&amp;UID：</translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation type="原因："></translation>
+        <translation>理由：</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation type="预设"></translation>
+        <translation>预设信息：</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="保存预设"></translation>
+        <translation>保存预设</translation>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation type="持续时间"></translation>
+        <translation>持续时间(&amp;D):</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="秒"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="分钟"></translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="小时"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="日"></translation>
+        <translation>天</translation>
     </message>
     <message>
         <source>permanent</source>
-        <translation type="永久"></translation>
+        <translation>永久</translation>
     </message>
     <message>
         <source>Set duration to maximum value</source>
-        <translation type="设置持续时间至最大值"></translation>
+        <translation>设置为最大值</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="无"></translation>
+        <translation>无预设</translation>
     </message>
     <message>
         <source>Save Preset</source>
-        <translation type="保存预设"></translation>
+        <translation>保存预设</translation>
     </message>
     <message>
         <source>Preset name:</source>
-        <translation type="预设名称："></translation>
+        <translation>预设名称：</translation>
     </message>
     <message>
         <source>Save duration</source>
-        <translation type="保存持续时间"></translation>
+        <translation>保存封禁时间</translation>
     </message>
     <message>
         <source>This will overwrite your preset %1. Do you wish to continue?</source>
-        <translation type="这会覆写你的预设。你希望继续吗？"></translation>
+        <translation>这将覆盖您的预设 %1。继续？</translation>
     </message>
     <message>
         <source>Add Ban</source>
-        <translation type="添加封禁"></translation>
+        <translation>添加黑名单</translation>
     </message>
     <message>
         <source>Edit Ban</source>
-        <translation type="编辑封禁"></translation>
+        <translation>编辑黑名单</translation>
     </message>
 </context>
 <context>
     <name>BanClientDialog</name>
     <message>
         <source>Ban Client</source>
-        <translation type="封禁客户端"></translation>
+        <translation>黑名单用户</translation>
     </message>
     <message>
         <source>Name:</source>
-        <translation type="名称："></translation>
+        <translation>名字：</translation>
     </message>
     <message>
         <source>Reason:</source>
-        <translation type="理由："></translation>
+        <translation>理由：</translation>
     </message>
     <message>
         <source>Preset:</source>
-        <translation type="预设："></translation>
+        <translation>预设信息：</translation>
     </message>
     <message>
         <source>Save preset</source>
-        <translation type="保存预设"></translation>
+        <translation>保存预设</translation>
     </message>
     <message>
         <source>&amp;Duration:</source>
-        <translation type="持续时间"></translation>
+        <translation>持续时间(&amp;D):</translation>
     </message>
     <message>
         <source>seconds</source>
-        <translation type="秒"></translation>
+        <translation>秒</translation>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="分钟"></translation>
+        <translation>分钟</translation>
     </message>
     <message>
         <source>hours</source>
-        <translation type="小时"></translation>
+        <translation>小时</translation>
     </message>
     <message>
         <source>days</source>
-        <translation type="天"></translation>
+        <translation>天</translation>
     </message>
     <message>
         <source>permanent</source>
-        <translation type="永久"></translation>
+        <translation>永久</translation>
     </message>
     <message>
         <source>Set duration to maximum value</source>
-        <translation type="设置持续时间至最大值"></translation>
+        <translation>设置为最大值</translation>
     </message>
 </context>
 <context>
     <name>BanList</name>
     <message>
         <source>Add new ban&lt;br&gt;(Ctrl+N)</source>
-        <translation type="新增封禁&lt;br&gt;(Ctrl+N)"></translation>
+        <translation>新增黑名单项目&lt;br&gt;(Ctrl+N)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="添加"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Remove selected bans&lt;br&gt;(Delete)</source>
-        <translation type="移除选中的封禁&lt;br&gt;(Delete)"></translation>
+        <translation>移除选中的黑名单项目&lt;br&gt;(Delete)</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="移除"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Edit selected ban&lt;br&gt;(Return)</source>
-        <translation type="编辑选中的封禁&lt;br&gt;(Return)"></translation>
+        <translation>编辑选中的黑名单项目&lt;br&gt;(Return)</translation>
     </message>
     <message>
         <source>Edit</source>
-        <translation type="编辑"></translation>
+        <translation>编辑</translation>
     </message>
     <message>
         <source>Search bans by text&lt;br&gt;(Ctrl+F)</source>
-        <translation type="按文字搜索封禁列表"></translation>
+        <translation>根据关键词搜索黑名单项目&lt;br&gt;(Ctrl+F)</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="刷新"></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>Show only bans created by you</source>
-        <translation type="只显示您添加的封禁"></translation>
+        <translation>只显示自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Show only own bans</source>
-        <translation type="只显示自己添加的封禁"></translation>
+        <translation>只显示自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Mark bans created by you as bold</source>
-        <translation type="以加粗的方式显示您添加的封禁"></translation>
+        <translation>用粗体标记自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Highlight own bans</source>
-        <translation type="高亮自己添加的封禁"></translation>
+        <translation>高亮自己创建的黑名单项目</translation>
     </message>
     <message>
         <source>Name/IP/UID</source>
-        <translation type="名称 / IP / UID"></translation>
+        <translation>名称/IP/UID</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="名称"></translation>
+        <translation>名字</translation>
     </message>
     <message>
         <source>IP</source>
-        <translation type="IP"></translation>
+        <translation>IP</translation>
     </message>
     <message>
         <source>UID</source>
-        <translation type="UID"></translation>
+        <translation>UID</translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="原因"></translation>
+        <translation>理由</translation>
     </message>
     <message>
         <source>Creator</source>
-        <translation type="创建者"></translation>
+        <translation>创建者</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="创建"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Expires</source>
-        <translation type="到期"></translation>
+        <translation>到期</translation>
     </message>
     <message>
         <source>Enforced</source>
-        <translation type="强制"></translation>
+        <translation>强制</translation>
     </message>
     <message>
         <source>infinite</source>
-        <translation type="无限"></translation>
+        <translation>无限</translation>
     </message>
     <message>
         <source>Last name</source>
-        <translation type="姓氏"></translation>
+        <translation>姓氏</translation>
     </message>
     <message>
         <source>Your ban was successfully added.</source>
-        <translation type="您的封禁添加成功"></translation>
+        <translation>您已成功添加黑名单。</translation>
     </message>
     <message>
         <source>Insufficient permissions...</source>
-        <translation type="权限不足"></translation>
+        <translation>权限不足...</translation>
     </message>
     <message>
         <source>You don&apos;t have the permission to edit ban entries from other users.
 Inserting a modified copy instead.</source>
-        <translation type="您没有权限编辑其他用户的禁止条目。
-插入修改后的副本代替。"></translation>
+        <translation>您无权编辑其他用户创建的黑名单条目。
+改为插入修改后的副本。</translation>
     </message>
     <message>
         <source>Ban List - %1</source>
-        <translation type="黑名单列表 - %1"></translation>
+        <translation>黑名单列表 - %1</translation>
     </message>
     <message>
         <source>Ban List</source>
-        <translation type="黑名单列表"></translation>
+        <translation>黑名单列表</translation>
     </message>
     <message>
         <source>Delete bans</source>
-        <translation type="删除封禁"></translation>
+        <translation>删除黑名单项目</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to delete the selected ban(s)?</source>
-        <translation type="你真的想删除所选择的封禁吗？">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n您真的想删除所选择的黑名单项目吗?</numerusform>
         </translation>
     </message>
     <message>
         <source>You have insufficient permissions to view the ban list.</source>
-        <translation type="您没有足够的权限来查看黑名单列表。"></translation>
+        <translation>您没有足够的权限来查看黑名单列表。</translation>
     </message>
 </context>
 <context>
     <name>BookmarksManager</name>
     <message>
         <source>Bookmarks</source>
-        <translation type="书签"></translation>
+        <translation>书签</translation>
     </message>
     <message>
         <source>myTeamSpeak Bookmarks</source>
-        <translation type="myTeamSpeak 书签"></translation>
+        <translation>myTeamSpeak 书签</translation>
     </message>
     <message>
         <source>Synchronized Bookmarks</source>
-        <translation type="同步书签"></translation>
+        <translation>同步的书签</translation>
     </message>
     <message>
         <source>Local Bookmarks</source>
-        <translation type="本地书签"></translation>
+        <translation>本地书签</translation>
     </message>
     <message>
         <source>Show ServerQuery Clients</source>
-        <translation type="显示 ServerQuery 客户端"></translation>
+        <translation>显示 ServerQuery 用户</translation>
     </message>
     <message>
         <source>Automatically connect to this server when starting TeamSpeak</source>
-        <translation type="启动 TeamSpeak 时自动连接到此服务器"></translation>
+        <translation>启动 TeamSpeak 时自动连接到此服务器</translation>
     </message>
     <message>
         <source>Connect on Startup</source>
-        <translation type="启动时连接"></translation>
+        <translation>启动时连接此服务器</translation>
     </message>
     <message>
         <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
-        <translation type="发送您的 myTeamSpeak ID 以便于授予您访问Twitch集成和其他服务等功能的权限"></translation>
+        <translation>发送 myTeamSpeak ID 获取 Twitch 集成和其他服务</translation>
     </message>
     <message>
         <source>Send myTeamSpeak ID</source>
-        <translation type="发送myTeamSpeak ID"></translation>
+        <translation>发送 myTeamSpeak ID</translation>
     </message>
     <message>
         <source>Server Nickname or &amp;Address:</source>
-        <translation type="服务器昵称或&amp;地址："></translation>
+        <translation>服务器别名或地址(&amp;A):</translation>
     </message>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
-        <translation type="TeamSpeak 3服务器的昵称，主机名或IP，
-例如：voice.teamspeak.com:9987"></translation>
+        <translation>TeamSpeak 3 服务器的别名、主机名或IP地址，
+示例： voice.teamspeak.com：9987</translation>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation type="语音包："></translation>
+        <translation>音效包:</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation type="&amp;身份："></translation>
+        <translation>身份标识(&amp;I):</translation>
     </message>
     <message>
         <source>Identity to use when connecting to the server</source>
-        <translation type="连接到服务器时使用的身份"></translation>
+        <translation>连接到服务器时要使用的身份标识</translation>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation type="热键配置："></translation>
+        <translation>快捷键配置:</translation>
     </message>
     <message>
         <source>Server &amp;Password:</source>
-        <translation type="服务器 &amp;密码："></translation>
+        <translation>服务器密码(&amp;P):</translation>
     </message>
     <message>
         <source>Server password (optional)</source>
-        <translation type="服务器密码（选填）"></translation>
+        <translation>服务器密码（可选）</translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>
-        <translation type="登录时加入此频道（选填）"></translation>
+        <translation>登录时加入此频道（可选）</translation>
     </message>
     <message>
         <source>Make current channel the default channel</source>
-        <translation type="将当前频道设为默认频道"></translation>
+        <translation>将当前频道设为默认频道</translation>
     </message>
     <message>
         <source>&amp;Default Channel:</source>
-        <translation type="&amp;默认频道："></translation>
+        <translation>默认频道(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="&amp;播放配置："></translation>
+        <translation>播放配置(&amp;P):</translation>
     </message>
     <message>
         <source>Playback profile used for this server</source>
-        <translation type="用于此服务器的播放配置"></translation>
+        <translation>用于此服务器的播放配置</translation>
     </message>
     <message>
         <source>Default Channel &amp;Password:</source>
-        <translation type="默认频道&amp;密码："></translation>
+        <translation>默认频道密码(&amp;P):</translation>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
-        <translation type="默认频道密码（可选）"></translation>
+        <translation>默认频道密码（可选）</translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation type="&amp;昵称："></translation>
+        <translation>昵称(&amp;N):</translation>
     </message>
     <message>
         <source>Your requested nickname</source>
-        <translation type="您心仪的昵称："></translation>
+        <translation>您请求使用的昵称</translation>
     </message>
     <message>
         <source>Bookmark Name:</source>
-        <translation type="书签名称："></translation>
+        <translation>书签名:</translation>
     </message>
     <message>
         <source>Custom description for this server</source>
-        <translation type="此服务器的自定义说明"></translation>
+        <translation>此服务器的自定义说明</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="&amp;昵称发音："></translation>
+        <translation>昵称发音(&amp;P):</translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation type="您的昵称的发音（选填）"></translation>
+        <translation>您的昵称的发音（可选）</translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="&amp;录音配置："></translation>
+        <translation>录音配置(&amp;C):</translation>
     </message>
     <message>
         <source>Capture profile used for this server</source>
-        <translation type="用于此服务器的录音配置"></translation>
+        <translation>用于此服务器的录音配置</translation>
     </message>
     <message>
         <source>Add Bookmark</source>
-        <translation type="添加书签"></translation>
+        <translation>新增书签</translation>
     </message>
     <message>
         <source>Add Folder</source>
-        <translation type="添加文件夹"></translation>
+        <translation>新增文件夹</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="移除"></translation>
+        <translation>移除</translation>
     </message>
 </context>
 <context>
     <name>CacheClearer</name>
     <message>
         <source>Clear Settings</source>
-        <translation type="清除设置"></translation>
+        <translation>清除设置</translation>
     </message>
     <message>
         <source>Clear Logs</source>
-        <translation type="清除日志"></translation>
+        <translation>清除日志</translation>
     </message>
     <message>
         <source>Clear Cache</source>
-        <translation type="清除缓存"></translation>
+        <translation>清除缓存</translation>
     </message>
     <message>
         <source>Clear Chats</source>
-        <translation type="清除聊天记录"></translation>
+        <translation>清除聊天记录</translation>
     </message>
     <message>
         <source>Clear Crashdumps</source>
-        <translation type="清除崩溃转储文件"></translation>
+        <translation>清除崩溃转储文件</translation>
     </message>
     <message>
         <source>Cache and chats of currently connected
 servers will not be cleared.</source>
-        <translation type="当前连接的缓存和聊天
-服务器不会被清除。"></translation>
+        <translation>当前连接的服务器的缓存和
+聊天记录将不会清除。</translation>
     </message>
 </context>
 <context>
     <name>CaptureSoundSetupDialog</name>
     <message>
         <source>Capture</source>
-        <translation type="录音"></translation>
+        <translation>录音设定</translation>
     </message>
     <message>
         <source>Configure the Capture Sound System</source>
-        <translation type="配置录音系统"></translation>
+        <translation>设置音频捕获系统</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Push-To-Talk&lt;/strong&gt; will only enable your microphone when your assigned hotkey is pressed and deactivate the microphone when your assigned hotkey is released. Click on the &amp;quot;No Hotkey Assigned&amp;quot; button if you are configuring Push-To-Talk for the first time.&lt;/p&gt;</source>
-        <translation type="&lt;p&gt;&lt;strong&gt;按键通话&lt;/strong&gt; 当按下指定热键时启用麦克风，释放时关闭麦克风。如为首次配置按键通话，请单击 &amp;quot;没有指定热键&amp;quot; 按钮&lt;/p&gt;"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;按键讲话&lt;/strong&gt; 仅在按下指定的按键时启用麦克风，并在释放指定的热键时停用麦克风。如果您是第一次配置按键通话，请点击 &amp;quot;未分配快捷键&amp;quot; 按钮配置快捷键。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;With &lt;strong&gt;Continuous Transmission&lt;/strong&gt; voice data is constantly transmitted. It is recommended to use Push-To-Talk or Voice Activation Detection instead to lower bandwidth usage.&lt;/p&gt;</source>
-        <translation type="&lt;p&gt;&lt;strong&gt;持续通话&lt;/strong&gt;时 语音数据将持续进行传输。建议使用按键通话或语音激活，以节省带宽。&lt;/p&gt;"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;持续传输&lt;/strong&gt; 保持语音数据不断传输。 建议使用 &amp;quot;按键讲话&amp;quot; 或 &amp;quot;自动语音检测&amp;quot; 来降低带宽使用率。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Voice Activation Detection&lt;/strong&gt; automatically detects your voice the moment you begin speaking (as well as when you stop speaking) and will enable or disable your microphone accordingly. This facilitates hands-free communication through TeamSpeak.&lt;/p&gt;&lt;p&gt;This method is not recommended in noisy environments since background noise may mistakenly be detected and transmitted to other users.&lt;/p&gt;</source>
-        <translation type="&lt;p&gt;&lt;strong&gt;语音激活&lt;/strong&gt; 会自动感应到您的说话，并自动开启/关闭麦克风，这样可以进行免提通话。&lt;/p&gt;&lt;p&gt;在嘈杂环境中不建议使用，因为背景噪音可能会被检测并传输给其他人。&lt;/p&gt;"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;自动语音检测&lt;/strong&gt; 会在您开始讲话时（以及停止时）自动检测您的语音，并相应地启用或禁用您的麦克风，即免提模式。&lt;/p&gt;&lt;p&gt;不建议在嘈杂的环境中使用本模式，可能会错误地将检测到的背景噪音传输给其他用户。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Voice Test is still active...</source>
-        <translation type="语音测试还在进行……"></translation>
+        <translation>音频测试还在进行中…</translation>
     </message>
     <message>
         <source>&lt;p&gt;Switching the options page will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
-        <translation type="&lt;p&gt;切换选项页面将会中止语音测试。&lt;/p&gt;&lt;p&gt;确定要继续吗？&lt;/p&gt;"></translation>
+        <translation>&lt;p&gt;切换选项页面将中止语音测试。&lt;/p&gt;&lt;p&gt;继续切换并停止语音测试？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Switching the profile will abort the voice test.&lt;/p&gt;&lt;p&gt;Do you want to continue and stop your voice test?&lt;/p&gt;</source>
-        <translation type="&lt;p&gt;切换配置文件将会中止语音测试。&lt;/p&gt;&lt;p&gt;确定要继续吗？&lt;/p&gt;"></translation>
+        <translation>&lt;p&gt;切换配置文件将中止语音测试。&lt;/p&gt;&lt;p&gt;是否继续切换并停止语音测试？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="默认"></translation>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Automatically use best mode</source>
-        <translation type="自动选用最佳模式"></translation>
+        <translation>自动使用最合适的模式</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="自定义"></translation>
+        <translation>自定义</translation>
     </message>
     <message>
         <source>Delete Hotkeys...</source>
-        <translation type="删除热键……"></translation>
+        <translation>删除快捷键…</translation>
     </message>
     <message>
         <source>Capture Profile &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; has been deleted.&lt;p&gt;Do you want to delete every Hotkey assigned to this profile as well?&lt;/p&gt;</source>
-        <translation type="录音配置文件&lt;strong&gt;&quot;%1&quot;&lt;/strong&gt;已被删除。&lt;p&gt;您是否要删除分配给此配置文件的每个热键？&lt;/p&gt;"></translation>
+        <translation>录音配置 &lt;strong&gt;&quot;%1&quot;&lt;/strong&gt; 已被删除。&lt;p&gt;是否同时删除分配给此配置文件的所有热键？&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountEmailDialog</name>
     <message>
         <source>Change Email</source>
-        <translation type="更改邮箱"></translation>
+        <translation>更改邮箱</translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation type="当前&amp;密码："></translation>
+        <translation>当前密码(&amp;P)：</translation>
     </message>
     <message>
         <source>New &amp;Email:</source>
-        <translation type="新邮箱："></translation>
+        <translation>新邮箱(&amp;E)：</translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountPasswordDialog</name>
     <message>
         <source>Change Password</source>
-        <translation type="更改密码"></translation>
+        <translation>更改密码</translation>
     </message>
     <message>
         <source>&amp;New Password:</source>
-        <translation type="新密码："></translation>
+        <translation>新密码(&amp;N)：</translation>
     </message>
     <message>
         <source>Current &amp;Password:</source>
-        <translation type="当前密码："></translation>
+        <translation>当前密码(&amp;P)：</translation>
     </message>
     <message>
         <source>&amp;Verify New Password:</source>
-        <translation type="验证密码："></translation>
+        <translation>确认新密码(&amp;P)：</translation>
     </message>
 </context>
 <context>
     <name>ChangeAccountUsernameDialog</name>
     <message>
         <source>Change Username</source>
-        <translation type="更改用户名"></translation>
+        <translation>更改用户名</translation>
     </message>
     <message>
         <source>New &amp;Username:</source>
-        <translation type="新用户名："></translation>
+        <translation>新用户名(&amp;U)：</translation>
     </message>
 </context>
 <context>
     <name>ChangeLogViewer</name>
     <message>
         <source>Changelog</source>
-        <translation type="更新日志"></translation>
+        <translation>更新日志</translation>
     </message>
 </context>
 <context>
     <name>ChangeMasterPasswordDialog</name>
     <message>
         <source>Change Master Password</source>
-        <translation type="更改主密码"></translation>
+        <translation>更改主密码</translation>
     </message>
     <message>
         <source>A Master Password is used to protect sensitive information like your identities and passwords. If you create a Master Password you will be asked to enter it every time TeamSpeak starts up.</source>
-        <translation type="主密码是用来保护您的身份、密码等机密信息。如果您创建了主密码，以后每次运行 Teamspeak 都需要输入它。"></translation>
+        <translation>主密码用于保护身份和密码等敏感信息。 如果您创建主密码，在每次 TeamSpeak 启动时都会要求您输入主密码。</translation>
     </message>
     <message>
         <source>If you forget your Master Password your sensitive information can never be retrieved. Please make sure to remember your Master Password carefully! Your password must be at least 6 characters long.</source>
-        <translation type="如果您忘记了主密码，将无法找回您的账户信息。请务必记住您的主密码！主密码至少为六位字符。"></translation>
+        <translation>如果您忘记了主密码，将无法读取敏感信息。 请务必牢记您的主密码！ 密码长度最少为6个字符。</translation>
     </message>
     <message>
         <source>Current password:</source>
-        <translation type="当前密码："></translation>
+        <translation>当前密码：</translation>
     </message>
     <message>
         <source>Enter new password:</source>
-        <translation type="输入新密码："></translation>
+        <translation>输入新密码:</translation>
     </message>
     <message>
         <source>Re-enter password:</source>
-        <translation type="再次输入密码："></translation>
+        <translation>重新输入主密码：</translation>
     </message>
     <message>
         <source>Remove Master Password</source>
-        <translation type="删除主密码"></translation>
+        <translation>移除主密码</translation>
     </message>
     <message>
         <source>Set Master Password</source>
-        <translation type="设置主密码"></translation>
+        <translation>设置主密码</translation>
     </message>
 </context>
 <context>
     <name>ChannelDescTextEdit</name>
     <message>
         <source>Channel Description</source>
-        <translation type="频道描述"></translation>
+        <translation>频道描述</translation>
     </message>
 </context>
 <context>
     <name>ChannelDescriptionEditTearOffWidget</name>
     <message>
         <source>Bold</source>
-        <translation type="加粗"></translation>
+        <translation>粗体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="斜体"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="下划线"></translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="颜色"></translation>
+        <translation>字体颜色</translation>
     </message>
     <message>
         <source>Press Button to &quot;Preview&quot; the changes in channel info.</source>
-        <translation type="点击“预览”按钮，可以在频道信息中查看效果。"></translation>
+        <translation>按下“预览”按钮以查看频道信息的更改。</translation>
     </message>
     <message>
         <source>Channel Description</source>
-        <translation type="频道描述"></translation>
+        <translation>频道描述</translation>
     </message>
     <message>
         <source>&amp;Preview</source>
-        <translation type="预览"></translation>
+        <translation>预览(&amp;P)</translation>
     </message>
 </context>
 <context>
     <name>ChannelEditTearOffWidget</name>
     <message>
         <source>Channel Description</source>
-        <translation type="频道描述"></translation>
+        <translation>频道描述</translation>
     </message>
     <message>
         <source>Toggle bbCode and WYSIWYG display</source>
-        <translation type="切换 bbCode 和 WYSIWYG 显示"></translation>
+        <translation>切换显示“bbCode”或“即时预览”</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="加粗"></translation>
+        <translation>粗体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="斜体"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="下划线"></translation>
+        <translation>下划线</translation>
     </message>
 </context>
 <context>
     <name>ChannelGroupsOfClientDialog</name>
     <message>
         <source>Channel Groups of Client</source>
-        <translation type="客户端频道组"></translation>
+        <translation>用户频道组</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="重新加载"></translation>
+        <translation>重新载入</translation>
     </message>
     <message>
         <source>Remove all Channel Groups</source>
-        <translation type="移除全部频道组"></translation>
+        <translation>移除所有频道组</translation>
     </message>
     <message>
         <source>Channel</source>
-        <translation type="频道"></translation>
+        <translation>频道</translation>
     </message>
     <message>
         <source>Channel Group</source>
-        <translation type="频道组"></translation>
+        <translation>频道组</translation>
     </message>
 </context>
 <context>
     <name>ChannelSelectionDialog</name>
     <message>
         <source>Reload</source>
-        <translation type="重新加载"></translation>
+        <translation>重新载入</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="添加"></translation>
+        <translation>添加</translation>
     </message>
     <message>
         <source>Channel Group: %1</source>
-        <translation type="频道组：%1"></translation>
+        <translation>频道组： %1</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="未知"></translation>
+        <translation>未知</translation>
     </message>
 </context>
 <context>
     <name>ChatLineEdit</name>
     <message>
         <source>Chat input</source>
-        <translation type="聊天输入"></translation>
+        <translation>对话输入</translation>
     </message>
     <message>
         <source>Enter Chat Message...</source>
-        <translation type="输入聊天内容……"></translation>
+        <translation>输入聊天消息…</translation>
     </message>
     <message>
         <source>Paste &amp;&amp; Send</source>
-        <translation type="粘贴并发送"></translation>
+        <translation>黏贴并发送</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="格式"></translation>
+        <translation>字体格式</translation>
     </message>
     <message>
         <source>Bold</source>
-        <translation type="加粗"></translation>
+        <translation>粗体</translation>
     </message>
     <message>
         <source>Italic</source>
-        <translation type="斜体"></translation>
+        <translation>斜体</translation>
     </message>
     <message>
         <source>Underline</source>
-        <translation type="下划线"></translation>
+        <translation>下划线</translation>
     </message>
     <message>
         <source>Color</source>
-        <translation type="颜色"></translation>
+        <translation>颜色</translation>
     </message>
 </context>
 <context>
     <name>ChatSetupDialog</name>
     <message>
         <source>Chat</source>
-        <translation type="聊天"></translation>
+        <translation>聊天</translation>
     </message>
     <message>
         <source>Configure the Chat Tabs</source>
-        <translation type="配置聊天选项卡"></translation>
+        <translation>配置聊天选项卡</translation>
     </message>
 </context>
 <context>
     <name>ChatTab</name>
     <message>
         <source>Clear</source>
-        <translation type="清除"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Show Emoticons</source>
-        <translation type="显示表情符号"></translation>
+        <translation>显示表情符号</translation>
     </message>
     <message>
         <source>Show Line Markers</source>
-        <translation type="显示行标记"></translation>
+        <translation>显示行标记</translation>
     </message>
     <message>
         <source>*** Chat begins %1 %2</source>
-        <translation type="*** 聊天开始于 %1 %2"></translation>
+        <translation>*** 开始对话 %1 %2</translation>
     </message>
     <message>
         <source>*** Log begins %1 %2</source>
-        <translation type="*** 日志开始于 %1 %2"></translation>
+        <translation>*** 开始记录日志 %1 %2</translation>
     </message>
     <message>
         <source>Invalid channel</source>
-        <translation type="无效频道"></translation>
+        <translation>无效的频道</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="未知"></translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>*** Chat begins</source>
-        <translation type="*** 聊天开始"></translation>
+        <translation>*** 开始对话</translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Yesterday&lt;/b&gt;</source>
-        <translation type="&lt;b&gt;*** 昨天&lt;/b&gt;"></translation>
+        <translation>&lt;b&gt;*** 昨日&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Today&lt;/b&gt;</source>
-        <translation type="&lt;b&gt;*** 今天&lt;/b&gt"></translation>
+        <translation>&lt;b&gt;*** 今日&lt;/b&gt;</translation>
     </message>
     <message>
         <source>&lt;b&gt;*** Tomorrow %1&lt;/b&gt;</source>
-        <translation type="&lt;b&gt;*** 明天 %1&lt;/b&gt;"></translation>
+        <translation>&lt;b&gt;*** 明日 %1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>End of chat history</source>
-        <translation type="聊天记录结束"></translation>
+        <translation>聊天记录结束</translation>
     </message>
 </context>
 <context>
     <name>ChatTabWidget</name>
     <message>
         <source>Chat output tabs</source>
-        <translation type="聊天输出选项卡"></translation>
+        <translation>聊天输出选项卡</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="清除"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="关闭"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>*** You are now talking in channel: %1</source>
-        <translation type="*** 你正在频道："%1" 内聊天"></translation>
+        <translation>*** 您当前在 %1 频道中</translation>
     </message>
     <message>
         <source>Enter Chat Message...</source>
-        <translation type="输入聊天内容……"></translation>
+        <translation>输入聊天消息…</translation>
     </message>
     <message>
         <source>%1 rejoined chat.</source>
-        <translation type="%1 重新加入聊天"></translation>
+        <translation>%1 重新加入了聊天。</translation>
     </message>
     <message>
         <source>Chat partner disconnected out of view.</source>
-        <translation type="聊天对象断开连接"></translation>
+        <translation>对方未查看。</translation>
     </message>
     <message>
         <source>Close Private Tabs</source>
-        <translation type="关闭全部私聊标签页"></translation>
+        <translation>关闭私聊选项卡</translation>
     </message>
     <message>
         <source>Close Private Tabs but this</source>
-        <translation type="关闭除此之外全部私聊标签页"></translation>
+        <translation>关闭除此以外的私聊选项卡</translation>
     </message>
     <message>
         <source>Your chat partner has disconnected.</source>
-        <translation type="您的聊天对象断开连接"></translation>
+        <translation>对方已断开连接。</translation>
     </message>
 </context>
 <context>
     <name>ChooseNickname</name>
     <message>
         <source>Too short</source>
-        <translation type="太短"></translation>
+        <translation>太短了</translation>
     </message>
 </context>
 <context>
     <name>ChooseNicknameDialog</name>
     <message>
         <source>Choose Your Nickname</source>
-        <translation type="选择您的昵称"></translation>
+        <translation>选择您的昵称</translation>
     </message>
     <message>
         <source>This is your identifying name which is displayed to other users.</source>
-        <translation type="这是您向其他用户显示的昵称"></translation>
+        <translation>昵称是您对其他用户显示的身份名称。</translation>
     </message>
     <message>
         <source>Choose your nickname:</source>
-        <translation type="输入您的昵称"></translation>
+        <translation>选择您的昵称：</translation>
     </message>
 </context>
 <context>
     <name>ClientDatabaseListViewer</name>
     <message>
         <source>All Clients</source>
-        <translation type="所有用户"></translation>
+        <translation>所有客户端</translation>
     </message>
     <message>
         <source>Clear search field</source>
-        <translation type="清除搜索字段"></translation>
+        <translation>清除搜索框</translation>
     </message>
     <message>
         <source>&amp;Search by</source>
-        <translation type="查找通过"></translation>
+        <translation>搜索(&amp;S)</translation>
     </message>
     <message>
         <source>Nickname</source>
-        <translation type="昵称"></translation>
+        <translation>昵称</translation>
     </message>
     <message>
         <source>Unique Identifier</source>
-        <translation type="UID"></translation>
+        <translation>唯一标识符</translation>
     </message>
     <message>
         <source>More</source>
-        <translation type="更多"></translation>
+        <translation>更多</translation>
     </message>
     <message>
         <source>Last Nickname</source>
-        <translation type="最近使用的昵称"></translation>
+        <translation>最后使用的昵称</translation>
     </message>
     <message>
         <source>Created</source>
-        <translation type="创建于"></translation>
+        <translation>创建</translation>
     </message>
     <message>
         <source>Last</source>
-        <translation type="最近登录"></translation>
+        <translation>最后</translation>
     </message>
     <message>
         <source>Total</source>
-        <translation type="登录次数"></translation>
+        <translation>总计</translation>
     </message>
     <message>
         <source>Last IP</source>
-        <translation type="最近登录IP"></translation>
+        <translation>最后的IP</translation>
     </message>
     <message>
         <source>Description</source>
-        <translation type="描述"></translation>
+        <translation>描述</translation>
     </message>
     <message>
         <source>All clients already received</source>
-        <translation type="所有客户都已收到"></translation>
+        <translation>所有客户端都已收到</translation>
     </message>
     <message>
         <source>No clients found</source>
-        <translation type="没有找到用户"></translation>
+        <translation>未找到用户</translation>
     </message>
     <message>
         <source>Client deleted</source>
-        <translation type="用户已删除"></translation>
+        <translation>已删除客户</translation>
     </message>
     <message>
         <source>This client is currently online and cannot be deleted.</source>
-        <translation type="此客户端当前在线，无法删除。"></translation>
+        <translation>此客户端当前在线，无法删除。</translation>
     </message>
     <message>
         <source>Copy Nickname to clipboard</source>
-        <translation type="复制昵称到剪切板"></translation>
+        <translation>复制昵称到剪贴板</translation>
     </message>
     <message>
         <source>Copy Unique ID to clipboard</source>
-        <translation type="复制UID到剪切板"></translation>
+        <translation>复制 UID 到剪贴板</translation>
     </message>
     <message>
         <source>Copy Last IP to clipboard</source>
-        <translation type="复制最近登录IP到剪切板"></translation>
+        <translation>复制最后使用的IP到剪贴板</translation>
     </message>
     <message>
         <source>Ban client</source>
-        <translation type="封禁用户"></translation>
+        <translation>黑名单用户</translation>
     </message>
     <message>
         <source>Delete avatar</source>
-        <translation type="删除头像"></translation>
+        <translation>删除头像</translation>
     </message>
     <message numerus="yes">
         <source>Delete client(s)</source>
-        <translation type="删除用户">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>删除用户%n</numerusform>
         </translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="确认"></translation>
+        <translation>确认</translation>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;all selected clients&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
-        <translation type="永久删除&lt;strong&gt;所有选定的客户端&lt;/strong&gt;？&lt;br&gt;此操作无法撤消。"></translation>
+        <translation>永久删除 &lt;strong&gt;所有已选择的客户&lt;/strong&gt; ？&lt;br&gt;此操作不可撤消。</translation>
     </message>
     <message>
         <source>Permanently delete &lt;strong&gt;%1&lt;/strong&gt;?&lt;br&gt;This operation cannot be undone.</source>
-        <translation type="永久删除 &lt;strong&gt;%1&lt;/strong&gt;？&lt;br&gt;此操作无法撤消。"></translation>
+        <translation>永久删除 &lt;strong&gt;%1&lt;/strong&gt; ？&lt;br&gt;此操作不可撤消。</translation>
     </message>
     <message>
         <source>At least three characters required</source>
-        <translation type="至少需要三个字符"></translation>
+        <translation>至少需要3个字符</translation>
     </message>
     <message>
         <source>Invalid search pattern</source>
-        <translation type="搜索模式无效"></translation>
+        <translation>无效的搜索模式</translation>
     </message>
 </context>
 <context>
     <name>ClientLogView</name>
     <message>
         <source>Client Log</source>
-        <translation type="客户端日志"></translation>
+        <translation>客户端日志</translation>
     </message>
     <message>
         <source>&amp;Critical</source>
-        <translation type="严重"></translation>
+        <translation>严重(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Errors</source>
-        <translation type="错误"></translation>
+        <translation>错误(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Warnings</source>
-        <translation type="警告"></translation>
+        <translation>警告(&amp;W)</translation>
     </message>
     <message>
         <source>&amp;Info</source>
-        <translation type="信息"></translation>
+        <translation>信息(&amp;I)</translation>
     </message>
     <message>
         <source>&amp;Debug</source>
-        <translation type="调试"></translation>
+        <translation>调试(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Highlighting</source>
-        <translation type="高亮"></translation>
+        <translation>高亮(&amp;H)</translation>
     </message>
     <message>
         <source>&amp;Exclude filter</source>
-        <translation type="清除过滤"></translation>
+        <translation>排除过滤器(&amp;E)</translation>
     </message>
     <message>
         <source>&amp;Search:</source>
-        <translation type="搜索"></translation>
+        <translation>搜索(&amp;S):</translation>
     </message>
     <message>
         <source>Search text in log.
 Press Enter to search next location.</source>
-        <translation type="在日志中搜索文本。
-按Enter键搜索下一个。"></translation>
+        <translation>在日志中搜索文本。
+按Enter键搜索下一个位置。</translation>
     </message>
     <message>
         <source>&amp;Filter:</source>
-        <translation type="过滤器："></translation>
+        <translation>过滤器(&amp;F):</translation>
     </message>
     <message>
         <source>Only show lines matching filter text.
 Press Enter to apply filter.</source>
-        <translation type="仅显示与过滤器文本匹配的内容。
-按Enter键应用过滤器。"></translation>
+        <translation>仅显示与过滤器文本匹配的行。
+按Enter键应用过滤器。</translation>
     </message>
     <message>
         <source>&amp;Case sensitive</source>
-        <translation type="区分大小写"></translation>
+        <translation>区分大小写(&amp;C)</translation>
     </message>
     <message>
         <source>Previous</source>
-        <translation type="上一个"></translation>
+        <translation>前一项</translation>
     </message>
     <message>
         <source>Next</source>
-        <translation type="下一个"></translation>
+        <translation>后一项</translation>
     </message>
     <message>
         <source>Mark</source>
-        <translation type="标记"></translation>
+        <translation>分隔线</translation>
     </message>
 </context>
 <context>
     <name>CollisionResolver</name>
     <message>
         <source>Resolve Collisions</source>
-        <translation type="解决冲突"></translation>
+        <translation>解决冲突</translation>
     </message>
     <message>
         <source>Hide passwords</source>
-        <translation type="隐藏密码"></translation>
+        <translation>隐藏密码</translation>
     </message>
     <message>
         <source>Try to apply decision to all collisions</source>
-        <translation type="尝试解决全部错误"></translation>
+        <translation>尝试将决策应用于所有冲突</translation>
     </message>
 </context>
 <context>
     <name>ComplainView</name>
     <message>
         <source>Complaints List</source>
-        <translation type="投诉列表"></translation>
+        <translation>投诉列表</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="移除"></translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="刷新"></translation>
+        <translation>刷新</translation>
     </message>
     <message>
         <source>Target Nickname</source>
-        <translation type="投诉对象"></translation>
+        <translation>被举报者</translation>
     </message>
     <message>
         <source>From Nickname</source>
-        <translation type="投诉人"></translation>
+        <translation>举报者</translation>
     </message>
     <message>
         <source>Reason</source>
-        <translation type="原因"></translation>
+        <translation>原因</translation>
     </message>
     <message>
         <source>Client banned: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>被禁止用户: %1</translation>
     </message>
     <message numerus="yes">
         <source>has %n complaint(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>有 %n 个投诉</numerusform>
         </translation>
     </message>
     <message>
         <source>Ban Client</source>
-        <translation type="unfinished"></translation>
+        <translation>封禁用户</translation>
     </message>
     <message>
         <source>Remove selected...</source>
-        <translation type="unfinished"></translation>
+        <translation>移除选中...</translation>
     </message>
     <message>
         <source>Do you really want to remove all complaints of this user?</source>
-        <translation type="unfinished"></translation>
+        <translation>你真的想移除此用户的所有投诉吗？</translation>
     </message>
     <message numerus="yes">
         <source>Do you really want to remove the selected complain(s)?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n你真的想移除选中的投诉吗？</numerusform>
         </translation>
     </message>
 </context>
@@ -1529,11 +1525,11 @@ Press Enter to apply filter.</source>
     <name>ConnectDialog</name>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">无</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">默认</translation>
     </message>
 </context>
 <context>
@@ -3568,7 +3564,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>录音配置</translation>
     </message>
     <message>
         <source>Playback Profile</source>
@@ -3708,7 +3704,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Activate Capture Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>激活的录音配置</translation>
     </message>
     <message>
         <source>Deactivate Capture Profile</source>
@@ -4108,7 +4104,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>No Hotkey Assigned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未分配快捷键</translation>
     </message>
 </context>
 <context>
@@ -4839,726 +4835,727 @@ You need to improve your identity security level.&lt;/span&gt;</source>
     <name>MainWindow</name>
     <message>
         <source>Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>工具栏</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Toggle Subscribe Mode for this server
 Current: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>切换此服务器的订阅模式
+当前： %1</translation>
     </message>
     <message>
         <source>Subscribe all</source>
-        <translation type="unfinished"></translation>
+        <translation>全部订阅</translation>
     </message>
     <message>
         <source>Subscribe selected</source>
-        <translation type="unfinished"></translation>
+        <translation>订阅选中项</translation>
     </message>
     <message>
         <source>%1 on %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 在 %2</translation>
     </message>
     <message>
         <source>Transfer Completed</source>
-        <translation type="unfinished"></translation>
+        <translation>传输完成</translation>
     </message>
     <message>
         <source>Away on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>离开此服务器</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:red;&quot;&gt;Your message has not been sent. Message limit has been exceeded.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:red;&quot;&gt;您的信息未发送。已超出发信限制。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p style=&quot;color:blue;&quot;&gt;Built-in commands: /close, /clear, /exit&lt;br&gt;Plugin commands: /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p style=&quot;color:blue;&quot;&gt;内置命令： /close, /clear, /exit&lt;br&gt;插件命令： /&amp;lt;plugin-command-keyword&amp;gt; &amp;lt;plugin-command&amp;gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;span style=&quot;color:red;&quot;&gt;Invalid command or missing parameters: %1&lt;/span&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;span style=&quot;color:red;&quot;&gt;无效的命令或缺少参数： %1&lt;/span&gt;</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>在所有服务器上对扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Unmute Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>在所有服务器上取消对扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Mute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>麦克风静音</translation>
     </message>
     <message>
         <source>Unmute Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>取消麦克风静音</translation>
     </message>
     <message>
         <source>Mute Speakers/Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation>扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Unmute Speakers/Headphones</source>
-        <translation type="unfinished"></translation>
+        <translation>取消扬声器/耳机静音</translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>&lt;p&gt;This is the last TeamSpeak version available for Windows Vista.&lt;/p&gt;&lt;p&gt;To upgrade TeamSpeak and take advantage of the latest features and bug fixes, please update your operating system to Windows 7 or newer.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;这是适用于 Windows Vista 的最后一个 TeamSpeak 版本。&lt;/p&gt;&lt;p&gt;为了升级 TeamSpeak 以得到最新功能和错误修复，请将您的操作系统更新到 Windows 7 或更新版本。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Use Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>使用权限密钥</translation>
     </message>
     <message>
         <source>&lt;p&gt;This is a newly configured server for which administrator privileges have not yet been claimed.&lt;br&gt;Please enter the Privilege Key that was automatically generated when this server was created&lt;br&gt;to gain administrator privileges.&lt;/p&gt;&lt;p&gt;Enter Privilege Key:&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;这是一个新配置的服务器，尚未指定任何管理员权限。&lt;br&gt;请输入创建此服务器时自动生成的权限密钥以获得管理员权限。&lt;/p&gt;&lt;p&gt;输入权限码：&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Enter Privilege Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入权限码：</translation>
     </message>
     <message>
         <source>Select File</source>
-        <translation type="unfinished"></translation>
+        <translation>选择文件</translation>
     </message>
     <message>
         <source>Wave files (*.wav)</source>
-        <translation type="unfinished"></translation>
+        <translation>波形文件 (*.wav)</translation>
     </message>
     <message>
         <source>Transfer &quot;%1&quot; reports: (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>传输 &quot;%1&quot; 报告： (%2)</translation>
     </message>
     <message>
         <source>Question</source>
-        <translation type="unfinished"></translation>
+        <translation>问题</translation>
     </message>
     <message>
         <source>&lt;p&gt;You have no telephony accounts configured yet.&lt;/p&gt;&lt;p&gt;Open telephony options to setup a new account?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;您尚未配置语音帐户。&lt;/p&gt;&lt;p&gt;打开语音选项以设置新帐户？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>/s</source>
-        <translation type="unfinished"></translation>
+        <translation>/s</translation>
     </message>
     <message>
         <source>&amp;About TeamSpeak 3</source>
-        <translation type="unfinished"></translation>
+        <translation>关于 TeamSpeak 3(&amp;A)</translation>
     </message>
     <message>
         <source>Show application and copyright information</source>
-        <translation type="unfinished"></translation>
+        <translation>显示程序许可和版权声明等信息</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接服务器(&amp;C)</translation>
     </message>
     <message>
         <source>Ctrl+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+S</translation>
     </message>
     <message>
         <source>Connect to a TeamSpeak server</source>
-        <translation type="unfinished"></translation>
+        <translation>连接到一个 TeamSpeak 服务器</translation>
     </message>
     <message>
         <source>&amp;Disconnect from Current</source>
-        <translation type="unfinished"></translation>
+        <translation>断开当前连接的服务器(&amp;D)</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <source>Disconnect from the currently active server tab</source>
-        <translation type="unfinished"></translation>
+        <translation>断开当前选项卡的服务器连接</translation>
     </message>
     <message>
         <source>&amp;Disconnect from All</source>
-        <translation type="unfinished"></translation>
+        <translation>断开所有服务器连接(&amp;D)</translation>
     </message>
     <message>
         <source>Disconnect from all TeamSpeak Servers</source>
-        <translation type="unfinished"></translation>
+        <translation>断开与所有 TeamSpeak 服务器的连接</translation>
     </message>
     <message>
         <source>&amp;Server List</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器列表(&amp;S)</translation>
     </message>
     <message>
         <source>Show list of known TeamSpeak 3 servers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示已知的 TeamSpeak 3 服务器列表</translation>
     </message>
     <message>
         <source>Ctrl+Shift+S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+S</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出(&amp;Q)</translation>
     </message>
     <message>
         <source>Ctrl+Q</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Q</translation>
     </message>
     <message>
         <source>Exit TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>退出 TeamSpeak</translation>
     </message>
     <message>
         <source>&amp;Toggle Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>切换离开状态(&amp;T)</translation>
     </message>
     <message>
         <source>Toggle the Away status</source>
-        <translation type="unfinished"></translation>
+        <translation>切换到离开状态</translation>
     </message>
     <message>
         <source>&amp;Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation>设置为离开(&amp;S)</translation>
     </message>
     <message>
         <source>Set your status to Away</source>
-        <translation type="unfinished"></translation>
+        <translation>将您的状态设置为离开</translation>
     </message>
     <message>
         <source>&amp;Set Globally Away</source>
-        <translation type="unfinished"></translation>
+        <translation>设置全局离开(&amp;S)</translation>
     </message>
     <message>
         <source>Set you status Globally Away</source>
-        <translation type="unfinished"></translation>
+        <translation>将您的全局状态设置为离开</translation>
     </message>
     <message>
         <source>&amp;Set Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>设置离开状态信息(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Set Globally Away Status</source>
-        <translation type="unfinished"></translation>
+        <translation>设置全局离开状态信息(&amp;S)</translation>
     </message>
     <message>
         <source>&amp;Online</source>
-        <translation type="unfinished"></translation>
+        <translation>上线(&amp;O)</translation>
     </message>
     <message>
         <source>Set status to Online on the active server</source>
-        <translation type="unfinished"></translation>
+        <translation>在活动服务器上将状态设置为在线</translation>
     </message>
     <message>
         <source>&amp;Online on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>全部上线(&amp;O)</translation>
     </message>
     <message>
         <source>Set your status to online on the all server</source>
-        <translation type="unfinished"></translation>
+        <translation>在所有服务器上将状态设置为在线</translation>
     </message>
     <message>
         <source>(Un)Mute the Microphone on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>在当前服务器上将麦克风静音/取消静音</translation>
     </message>
     <message>
         <source>&amp;Activate Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>激活麦克风(&amp;A)</translation>
     </message>
     <message>
         <source>Activate the Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>激活麦克风</translation>
     </message>
     <message>
         <source>(Un)Mute the Speakers/Headphones on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>将当前服务器上的语音静音</translation>
     </message>
     <message>
         <source>(Un)Mute the Speakers/Headphones on all servers</source>
-        <translation type="unfinished"></translation>
+        <translation>将所有服务器上的语音静音</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>设置(&amp;O)</translation>
     </message>
     <message>
         <source>Open options dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>打开软件设置</translation>
     </message>
     <message>
         <source>Alt+P</source>
-        <translation type="unfinished"></translation>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <source>Start &amp;Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>启动 &amp;Overwolf</translation>
     </message>
     <message>
         <source>Start Overwolf Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>启动 Overwolf 叠加层</translation>
     </message>
     <message>
         <source>Collected &amp;URLs</source>
-        <translation type="unfinished"></translation>
+        <translation>收集到的链接(&amp;U)</translation>
     </message>
     <message>
         <source>Display collected internet locations</source>
-        <translation type="unfinished"></translation>
+        <translation>显示服务器收集的链接(来自用户)</translation>
     </message>
     <message>
         <source>Ctrl+U</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+U</translation>
     </message>
     <message>
         <source>File &amp;Transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>文件传输(&amp;T)</translation>
     </message>
     <message>
         <source>Display file transfers</source>
-        <translation type="unfinished"></translation>
+        <translation>显示文件传输</translation>
     </message>
     <message>
         <source>Ctrl+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+T</translation>
     </message>
     <message>
         <source>Contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>联系人</translation>
     </message>
     <message>
         <source>Manage contacts</source>
-        <translation type="unfinished"></translation>
+        <translation>管理联系人</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 网站(&amp;W)</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak webpage at www.TeamSpeak.com</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 官网: www.TeamSpeak.com</translation>
     </message>
     <message>
         <source>&amp;myTeamSpeak Account</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;myTeamSpeak账号 网站</translation>
     </message>
     <message>
         <source>Visit the myTeamSpeak account webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 myTeamSpeak 账号的网站</translation>
     </message>
     <message>
         <source>Visit TeamSpeak &amp;Support Forum</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 官方支持论坛(&amp;S)</translation>
     </message>
     <message>
         <source>Visit the TeamSpeak support forum at forum.TeamSpeak.com</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak 官方支持论坛: forum.TeamSpeak.com</translation>
     </message>
     <message>
         <source>&amp;Rent own TeamSpeak Server</source>
-        <translation type="unfinished"></translation>
+        <translation>租用自己的 TeamSpeak 服务器(&amp;R)</translation>
     </message>
     <message>
         <source>Find out where to get your own TeamSpeak Server</source>
-        <translation type="unfinished"></translation>
+        <translation>TeamSpeak 服务器 官方托管</translation>
     </message>
     <message>
         <source>Client &amp;Log</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端日志(&amp;L)</translation>
     </message>
     <message>
         <source>Display client log</source>
-        <translation type="unfinished"></translation>
+        <translation>显示客户端日志</translation>
     </message>
     <message>
         <source>Ctrl+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+L</translation>
     </message>
     <message>
         <source>&amp;Server Log</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器日志(&amp;S)</translation>
     </message>
     <message>
         <source>Display server log messages</source>
-        <translation type="unfinished"></translation>
+        <translation>显示服务器日志消息</translation>
     </message>
     <message>
         <source>Ctrl+Shift+L</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+L</translation>
     </message>
     <message>
         <source>&amp;Server Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器组(&amp;S)</translation>
     </message>
     <message>
         <source>Manage server group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理服务器组权限</translation>
     </message>
     <message>
         <source>Ctrl+F1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F1</translation>
     </message>
     <message>
         <source>&amp;Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>用户权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理用户权限</translation>
     </message>
     <message>
         <source>Ctrl+F2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F2</translation>
     </message>
     <message>
         <source>&amp;Channel Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>频道权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理频道权限</translation>
     </message>
     <message>
         <source>Ctrl+F3</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F3</translation>
     </message>
     <message>
         <source>&amp;Channel Groups</source>
-        <translation type="unfinished"></translation>
+        <translation>频道组(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel group permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>管理频道组权限</translation>
     </message>
     <message>
         <source>Ctrl+F4</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F4</translation>
     </message>
     <message>
         <source>&amp;Channel Client Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>用户频道权限(&amp;C)</translation>
     </message>
     <message>
         <source>Manage channel client permissions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">管理用户频道权限</translation>
     </message>
     <message>
         <source>Ctrl+F5</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+F5</translation>
     </message>
     <message>
         <source>Check for &amp;Update</source>
-        <translation type="unfinished"></translation>
+        <translation>检查客户端更新(&amp;U)</translation>
     </message>
     <message>
         <source>Check if a new TeamSpeak 3 client version is available</source>
-        <translation type="unfinished"></translation>
+        <translation>检查是否有新的 TeamSpeak 3 客户端版本</translation>
     </message>
     <message>
         <source>Show News &amp;Ticker</source>
-        <translation type="unfinished"></translation>
+        <translation>显示新闻(&amp;T)</translation>
     </message>
     <message>
         <source>Show latest news about TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>显示有关 TeamSpeak 的最新消息</translation>
     </message>
     <message>
         <source>&amp;Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>身份(&amp;I)</translation>
     </message>
     <message>
         <source>Manage user identities</source>
-        <translation type="unfinished"></translation>
+        <translation>管理用户身份</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <source>&amp;ServerQuery Login</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;ServerQuery 登录</translation>
     </message>
     <message>
         <source>Set login name and password for your ServerQuery connection</source>
-        <translation type="unfinished"></translation>
+        <translation>设置 ServerQuery 连接的登录名和密码</translation>
     </message>
     <message>
         <source>Use &amp;Privilege Key</source>
-        <translation type="unfinished"></translation>
+        <translation>使用权限密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Use Privilege Key to get specific permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>使用权限密钥获取特定权限</translation>
     </message>
     <message>
         <source>Channel &amp;Groups of Client</source>
-        <translation type="unfinished"></translation>
+        <translation>用户频道组(&amp;G)</translation>
     </message>
     <message>
         <source>Display channel groups of specified client</source>
-        <translation type="unfinished"></translation>
+        <translation>显示指定客户端的频道组</translation>
     </message>
     <message>
         <source>Start &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>开始录音(&amp;R)</translation>
     </message>
     <message>
         <source>Start recording</source>
-        <translation type="unfinished"></translation>
+        <translation>开始录音</translation>
     </message>
     <message>
         <source>Ctrl+Shift+R</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+R</translation>
     </message>
     <message>
         <source>Stop &amp;Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>停止录音(&amp;R)</translation>
     </message>
     <message>
         <source>Stop recording</source>
-        <translation type="unfinished"></translation>
+        <translation>停止录音</translation>
     </message>
     <message>
         <source>Ctrl+Shift+T</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+T</translation>
     </message>
     <message>
         <source>Status Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>状态栏</translation>
     </message>
     <message>
         <source>Offline Messages</source>
-        <translation type="unfinished"></translation>
+        <translation>离线消息</translation>
     </message>
     <message>
         <source>Open Offline Message Dialog</source>
-        <translation type="unfinished"></translation>
+        <translation>打开离线消息对话框</translation>
     </message>
     <message>
         <source>Ctrl+O</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+O</translation>
     </message>
     <message>
         <source>Toggle channel subscribe mode</source>
-        <translation type="unfinished"></translation>
+        <translation>切换频道订阅模式</translation>
     </message>
     <message>
         <source>Ban List</source>
-        <translation type="unfinished"></translation>
+        <translation>封禁列表</translation>
     </message>
     <message>
         <source>Opens the Ban List</source>
-        <translation type="unfinished"></translation>
+        <translation>打开封禁名单</translation>
     </message>
     <message>
         <source>Ctrl+Shift+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+B</translation>
     </message>
     <message>
         <source>Complaints List</source>
-        <translation type="unfinished"></translation>
+        <translation>投诉列表</translation>
     </message>
     <message>
         <source>Show list of complaints</source>
-        <translation type="unfinished"></translation>
+        <translation>显示投诉列表</translation>
     </message>
     <message>
         <source>Ctrl+Shift+C</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+C</translation>
     </message>
     <message>
         <source>View &amp;Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>查看更新日志(&amp;C)</translation>
     </message>
     <message>
         <source>View the TeamSpeak 3 Client Changelog</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 TeamSpeak 3 客户端更新日志</translation>
     </message>
     <message>
         <source>View &amp;License</source>
-        <translation type="unfinished"></translation>
+        <translation>查看许可证(&amp;L)</translation>
     </message>
     <message>
         <source>View the TeamSpeak 3 Client License</source>
-        <translation type="unfinished"></translation>
+        <translation>查看 TeamSpeak 3 客户端许可证</translation>
     </message>
     <message>
         <source>Set &amp;Phonetic Nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>设置昵称音素(&amp;P)</translation>
     </message>
     <message>
         <source>Set your nickname written in phonemes</source>
-        <translation type="unfinished"></translation>
+        <translation>设置你的昵称的发音方式</translation>
     </message>
     <message>
         <source>&amp;Privilege Keys</source>
-        <translation type="unfinished"></translation>
+        <translation>权限密钥(&amp;P)</translation>
     </message>
     <message>
         <source>Manage privilege keys on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>管理服务器上的权限密钥</translation>
     </message>
     <message>
         <source>&amp;Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>连接信息(&amp;C)</translation>
     </message>
     <message>
         <source>Retrieve connection information</source>
-        <translation type="unfinished"></translation>
+        <translation>检索连接信息</translation>
     </message>
     <message>
         <source>&amp;List All Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>所有客户端列表(&amp;L)</translation>
     </message>
     <message>
         <source>Show list of all clients on the current server</source>
-        <translation type="unfinished"></translation>
+        <translation>显示当前服务器所有用户的投诉列表</translation>
     </message>
     <message>
         <source>Customize Toolbar</source>
-        <translation type="unfinished"></translation>
+        <translation>自定义工具栏</translation>
     </message>
     <message>
         <source>Master Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>主音量</translation>
     </message>
     <message>
         <source>&amp;Whisper Lists</source>
-        <translation type="unfinished"></translation>
+        <translation>密语(&amp;W)</translation>
     </message>
     <message>
         <source>Manage whisper lists</source>
-        <translation type="unfinished"></translation>
+        <translation>管理密语列表</translation>
     </message>
     <message>
         <source>Ctrl+Shift+W</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+W</translation>
     </message>
     <message>
         <source>&amp;Whisper History</source>
-        <translation type="unfinished"></translation>
+        <translation>密语记录(&amp;W)</translation>
     </message>
     <message>
         <source>Show whisper history for current server</source>
-        <translation type="unfinished"></translation>
+        <translation>显示当前服务器的密语日志</translation>
     </message>
     <message>
         <source>Ctrl+Shift+H</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+Shift+H</translation>
     </message>
     <message>
         <source>&amp;Invite Buddy</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请好友(&amp;I)</translation>
     </message>
     <message>
         <source>Invite a buddy to this server</source>
-        <translation type="unfinished"></translation>
+        <translation>邀请好友加入这个服务器</translation>
     </message>
     <message>
         <source>&amp;Toggle ServerQueryClients</source>
-        <translation type="unfinished"></translation>
+        <translation>切换 ServerQueryClients (&amp;T)</translation>
     </message>
     <message>
         <source>Toggle ServerQueryClients on this server</source>
-        <translation type="unfinished"></translation>
+        <translation>在此服务器上切换 ServerQueryClients</translation>
     </message>
     <message>
         <source>T&amp;oggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换阻止传入的密语(&amp;T)</translation>
     </message>
     <message>
         <source>Toggle Block Incoming Whispers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">切换阻止传入的密语</translation>
     </message>
     <message>
         <source>&amp;Call</source>
-        <translation type="unfinished"></translation>
+        <translation>呼叫(&amp;C)</translation>
     </message>
     <message>
         <source>Call user</source>
-        <translation type="unfinished"></translation>
+        <translation>呼叫用户</translation>
     </message>
     <message>
         <source>Open telephony settings</source>
-        <translation type="unfinished"></translation>
+        <translation>打开语音设置</translation>
     </message>
     <message>
         <source>&amp;Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>连接(&amp;C)</translation>
     </message>
     <message>
         <source>S&amp;elf</source>
-        <translation type="unfinished"></translation>
+        <translation>个人设定(&amp;E)</translation>
     </message>
     <message>
         <source>Per&amp;missions</source>
-        <translation type="unfinished"></translation>
+        <translation>权限(&amp;M)</translation>
     </message>
     <message>
         <source>&amp;Tools</source>
-        <translation type="unfinished"></translation>
+        <translation>工具(&amp;T)</translation>
     </message>
     <message>
         <source>Teleph&amp;ony</source>
-        <translation type="unfinished"></translation>
+        <translation>语音(&amp;O)</translation>
     </message>
     <message>
         <source>P&amp;lugins</source>
-        <translation type="unfinished"></translation>
+        <translation>插件(&amp;P)</translation>
     </message>
     <message>
         <source>&amp;Help</source>
-        <translation type="unfinished"></translation>
+        <translation>帮助(&amp;H)</translation>
     </message>
     <message>
         <source>On active server</source>
-        <translation type="unfinished"></translation>
+        <translation>在活动服务器上</translation>
     </message>
     <message>
         <source>Set Away</source>
-        <translation type="unfinished"></translation>
+        <translation>离开设置</translation>
     </message>
     <message>
         <source>Install &amp;Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>安装 &amp;Overwolf</translation>
     </message>
     <message>
         <source>Install Overwolf Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation>安装 Overwolf (叠加层)软件</translation>
     </message>
     <message>
         <source>Filetransfer in progress</source>
-        <translation type="unfinished"></translation>
+        <translation>文件传输中</translation>
     </message>
     <message numerus="yes">
         <source>There are %n filetransfer(s) in progress.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform> %n 个文件正在传输中。</numerusform>
         </translation>
     </message>
     <message>
         <source>If you quit now, any transfer will be aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>如果您现在退出，任何文件传输都将中止。</translation>
     </message>
     <message>
         <source>Do you really want to quit?</source>
-        <translation type="unfinished"></translation>
+        <translation>您真的想要退出么？</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Failed to start Overwolf</source>
-        <translation type="unfinished"></translation>
+        <translation>启动 Overwolf 失败</translation>
     </message>
 </context>
 <context>
@@ -9902,7 +9899,7 @@ Do you want to apply your changes?</source>
     </message>
     <message>
         <source>minutes</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">分钟</translation>
     </message>
     <message>
         <source>Channel to join:</source>
@@ -10637,23 +10634,23 @@ TeamSpeak will be closed if you proceed.</source>
     <name>VADControl</name>
     <message>
         <source>Error, could not open Capture Device.</source>
-        <translation type="unfinished"></translation>
+        <translation>发生错误，无法打开音频捕获设备。</translation>
     </message>
     <message>
         <source>Speak clearly and adjust the voice level.</source>
-        <translation type="unfinished"></translation>
+        <translation>清晰的讲话并调整音量水平。</translation>
     </message>
     <message>
         <source>Press %1 to talk.</source>
-        <translation type="unfinished"></translation>
+        <translation>按下 %1键 说话。</translation>
     </message>
     <message>
         <source>Please define a Hotkey.</source>
-        <translation type="unfinished"></translation>
+        <translation>请设置一个快捷键。</translation>
     </message>
     <message>
         <source>Continuous transmission - just talk.</source>
-        <translation type="unfinished"></translation>
+        <translation>持续传输 - 保持音频捕获。</translation>
     </message>
     <message>
         <source>The OS denied access to the microphone. Please click &lt;a href=&quot;#open_os_permissions&quot;&gt;here&lt;/a&gt; to open the Windows privacy settings and allow apps to use it.</source>
@@ -10661,11 +10658,11 @@ TeamSpeak will be closed if you proceed.</source>
     </message>
     <message>
         <source>Begin Test</source>
-        <translation type="unfinished"></translation>
+        <translation>开始测试</translation>
     </message>
     <message>
         <source>Stop Test</source>
-        <translation type="unfinished"></translation>
+        <translation>停止测试</translation>
     </message>
 </context>
 <context>
@@ -11555,7 +11552,7 @@ No changes have been written yet.</source>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未分配快捷键</translation>
     </message>
     <message>
         <source>Reply Hotkey:</source>
@@ -11961,7 +11958,7 @@ Useful for servers with a lot of channels and clients.</source>
     </message>
     <message>
         <source>Continuous Transmission</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">持续传输</translation>
     </message>
     <message>
         <source>Voice Activation Detection</source>
@@ -12119,382 +12116,382 @@ Useful for servers with a lot of channels and clients.</source>
     <name>com::teamspeak::ui::AccountSetup</name>
     <message>
         <source>myTeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Automatic&lt;/strong&gt;&lt;br&gt;All items(bookmarks, identities etc.) will be created as synchronized items by default.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Manual&lt;/strong&gt;&lt;br&gt;All items(bookmarks, identities etc.) will be created as local items by default, you decide which individual items will be synchronized.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;自动&lt;/strong&gt;&lt;br&gt;默认情况下，所有项目（书签，身份等）都将创建为同步项目。&lt;/p&gt;&lt;p&gt;&lt;strong&gt;手动&lt;/strong&gt;&lt;br&gt;所有项目（书签，身份等）都将创建为本地项目 默认情况下，您可以决定要同步哪些项目。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation>连接中断</translation>
     </message>
     <message>
         <source>Reset Password</source>
-        <translation type="unfinished"></translation>
+        <translation>重设密码</translation>
     </message>
     <message>
         <source>Change Password</source>
-        <translation type="unfinished"></translation>
+        <translation>修改密码</translation>
     </message>
     <message>
         <source>Change Username</source>
-        <translation type="unfinished"></translation>
+        <translation>修改用户名</translation>
     </message>
     <message>
         <source>New Recovery Key</source>
-        <translation type="unfinished"></translation>
+        <translation>新的恢复密钥</translation>
     </message>
     <message>
         <source>Configure Badges</source>
-        <translation type="unfinished"></translation>
+        <translation>设置徽章</translation>
     </message>
     <message>
         <source>Redeem Code</source>
-        <translation type="unfinished"></translation>
+        <translation>兑换代码</translation>
     </message>
     <message>
         <source>Logout</source>
-        <translation type="unfinished"></translation>
+        <translation>注销</translation>
     </message>
     <message>
         <source>Login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录</translation>
     </message>
     <message>
         <source>&lt;p&gt;If you turn this off now, your synchronized items will no longer be available on this computer (but stay stored in your myTeamSpeak account).&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335&quot;&gt;Read details&lt;/a&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;如果您现在关闭此功能，您的同步项目将不再可用于此计算机（但会保留在 myTeamSpeak 帐户中）。&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://support.teamspeakusa.com/index.php?/Knowledgebase/Article/View/335&quot;&gt;阅读详情&lt;/a&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>警告</translation>
     </message>
     <message>
         <source>Connected as %1</source>
-        <translation type="unfinished"></translation>
+        <translation>登录为 %1</translation>
     </message>
     <message>
         <source>Login failed, please try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>登录失败，请稍后重试</translation>
     </message>
     <message>
         <source>Account verification pending</source>
-        <translation type="unfinished"></translation>
+        <translation>账号待验证</translation>
     </message>
     <message>
         <source>Login failed</source>
-        <translation type="unfinished"></translation>
+        <translation>登录失败</translation>
     </message>
     <message>
         <source>Connecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>连接中...</translation>
     </message>
     <message>
         <source>Not Connected</source>
-        <translation type="unfinished"></translation>
+        <translation>未连接</translation>
     </message>
     <message>
         <source>Email is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>邮箱为空</translation>
     </message>
     <message>
         <source>Password is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>密码为空</translation>
     </message>
     <message>
         <source>Please confirm your myTeamSpeak account password</source>
-        <translation type="unfinished"></translation>
+        <translation>请确认你的 myTeamSpeak 账号密码</translation>
     </message>
     <message>
         <source>Password invalid. Try again</source>
-        <translation type="unfinished"></translation>
+        <translation>密码无效。请重试</translation>
     </message>
     <message>
         <source>Confirm password</source>
-        <translation type="unfinished"></translation>
+        <translation>确认密码</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::Account_Create_Login_Dialog</name>
     <message>
         <source>myTeamSpeak Account</source>
-        <translation type="unfinished"></translation>
+        <translation>myTeamSpeak 账号</translation>
     </message>
     <message>
         <source>&lt;p&gt;If disabled, you will automatically be logged out of your myTeamSpeak account on exit.&lt;/p&gt;&lt;p&gt;Please note this will delete all synchronized items on this device when you exit the TeamSpeak client, but they will stay on the myTeamSpeak server.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;如果禁用，您将在退出程序时自动登出 myTeamSpeak 帐户。&lt;/p&gt;&lt;p&gt;请注意，当您退出TeamSpeak客户端时将删除此设备上的所有同步项目，但它们将保留在myTeamSpeak服务器上。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Synchronize your bookmarks, identities, hotkeys, addons and more settings over different devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;通过不同设备同步书签，身份，快捷键，插件和更多设置。&lt;/p&gt;</translation>
     </message>
     <message>
         <source>You can login or create an account at any time in Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>您可以随时在“设置”中登录或创建帐户</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>Forgot Password?</source>
-        <translation type="unfinished"></translation>
+        <translation>忘记密码？</translation>
     </message>
     <message>
         <source>Invalid email</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的邮箱</translation>
     </message>
     <message>
         <source>Password is too short, requires at least %1 characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码太短，至少需要 %1 个字符</translation>
     </message>
     <message>
         <source>Password is too long, maximium length is %1 characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码太长，最大长度为 %1 个字符</translation>
     </message>
     <message>
         <source>Passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码不匹配</translation>
     </message>
     <message>
         <source>Username is too short</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户名太短</translation>
     </message>
     <message>
         <source>Username is too long, maximium length is %1 characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户名太长，最大长度为 %1 个字符</translation>
     </message>
     <message>
         <source>Unknown Username error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未知的用户名错误</translation>
     </message>
     <message>
         <source>Failed to create account</source>
-        <translation type="unfinished"></translation>
+        <translation>账号创建失败</translation>
     </message>
     <message>
         <source>Failed to login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录失败</translation>
     </message>
     <message>
         <source>Weak password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码强度弱</translation>
     </message>
     <message>
         <source>Good password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码强度一般</translation>
     </message>
     <message>
         <source>Strong password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码强度强</translation>
     </message>
     <message>
         <source>Login failed, please try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>登录失败，请稍后再试</translation>
     </message>
     <message>
         <source>Login failed</source>
-        <translation type="unfinished"></translation>
+        <translation>登录失败</translation>
     </message>
     <message>
         <source>Email already taken</source>
-        <translation type="unfinished"></translation>
+        <translation>此邮箱已被注册</translation>
     </message>
     <message>
         <source>Username already taken</source>
-        <translation type="unfinished"></translation>
+        <translation>此用户名已被注册</translation>
     </message>
     <message>
         <source>Invalid username</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的用户名</translation>
     </message>
     <message>
         <source>Could not contact server</source>
-        <translation type="unfinished"></translation>
+        <translation>无法连接至服务器</translation>
     </message>
     <message>
         <source>Critical management error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">严重的管理错误</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::Account_Recovery_Key_Dialog</name>
     <message>
         <source>Select recovery key file</source>
-        <translation type="unfinished"></translation>
+        <translation>选择恢复密钥文件</translation>
     </message>
     <message>
         <source>Text files (*.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>文本文档 (*.txt)</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>错误</translation>
     </message>
     <message>
         <source>Finished</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <source>Error getting backup key</source>
-        <translation type="unfinished"></translation>
+        <translation>获取备份密钥出错</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::Bookmarks</name>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message>
         <source>Do not show again</source>
-        <translation type="unfinished"></translation>
+        <translation>不再显示</translation>
     </message>
     <message>
         <source>&amp;Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签(&amp;B)</translation>
     </message>
     <message>
         <source>&amp;Manage Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>书签管理器(&amp;M)</translation>
     </message>
     <message>
         <source>Manage bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>管理书签</translation>
     </message>
     <message>
         <source>Ctrl+B</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+B</translation>
     </message>
     <message>
         <source>&amp;Add to Bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation>添加到书签(&amp;A)</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::BookmarksManager</name>
     <message>
         <source>Add Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>添加书签</translation>
     </message>
     <message>
         <source>Add Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>添加文件夹</translation>
     </message>
     <message>
         <source>Duplicate</source>
-        <translation type="unfinished"></translation>
+        <translation>复制</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished"></translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <source>Connect in New Tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在新标签栏连接</translation>
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>无</translation>
     </message>
     <message>
         <source>Default</source>
-        <translation type="unfinished"></translation>
+        <translation>默认</translation>
     </message>
     <message>
         <source>Always default</source>
-        <translation type="unfinished"></translation>
+        <translation>永远默认</translation>
     </message>
     <message>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">确定</translation>
     </message>
     <message>
         <source>&lt;p&gt;You clicked a TeamSpeak 3 server link in your web browser&lt;br&gt;which wants to add itself to your bookmarks as:&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;How do you want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;您在网络浏览器中点击了一个 TeamSpeak 3 服务器链接，将会添加到您的书签中：&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;是否继续？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;A plugin wants to add a bookmark as:&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;How do you want to proceed?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;一个插件想添加书签：&lt;/p&gt;&lt;p&gt;%1&lt;br&gt;%2:%3&lt;/p&gt;&lt;p&gt;是否继续？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Do nothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">什么都不做</translation>
     </message>
     <message>
         <source>Bookmark only</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">仅添加书签</translation>
     </message>
     <message>
         <source>Bookmark and Connect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">添加到书签并连接</translation>
     </message>
     <message>
         <source>&lt;p&gt;Bookmarks have been changed.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Save&lt;/strong&gt;, &lt;strong&gt;Discard&lt;/strong&gt; your changes or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;书签已更改。&lt;/p&gt;&lt;p&gt;您想要&lt;strong&gt;保存&lt;/strong&gt;，&lt;strong&gt;放弃&lt;/strong&gt;你的更改或&lt;strong&gt;中止&lt;/strong&gt;并关闭此窗口？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Bookmarks have been changed but there is an invalid nickname.&lt;/p&gt;&lt;p&gt;Do you want to &lt;strong&gt;Discard&lt;/strong&gt; your change or &lt;strong&gt;Abort&lt;/strong&gt; closing this window?&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;书签已更改但含有无效的昵称。&lt;/p&gt;&lt;p&gt;你想&lt;strong&gt;放弃&lt;/strong&gt;你的更改或&lt;strong&gt;中止&lt;/strong&gt; 并关闭此窗口？&lt;/p&gt;</translation>
     </message>
     <message>
         <source>New Folder</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新文件夹</translation>
     </message>
     <message>
         <source>New Folder %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新文件夹%1</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">错误</translation>
     </message>
     <message>
         <source>Exceeding maximum of %1 synchronized bookmarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">超过最大同步书签上限 (%1)</translation>
     </message>
     <message>
         <source>Exceeding maximum of %1 synchronized folders</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">超过最大同步文件夹上限 (%1)</translation>
     </message>
     <message>
         <source>New Server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新服务器</translation>
     </message>
     <message>
         <source>Move to synchronized</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移至同步</translation>
     </message>
     <message>
         <source>Move to local</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">移至本地</translation>
     </message>
     <message>
         <source>You are not connected to this server</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">您未连接至此服务器</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::BookmarksMenu</name>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接(&amp;C)</translation>
     </message>
     <message>
         <source>Connect in new &amp;tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在新标签栏连接(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Edit Bookmark</source>
-        <translation type="unfinished"></translation>
+        <translation>编辑书签(&amp;E)</translation>
     </message>
 </context>
 <context>
@@ -12502,129 +12499,129 @@ Useful for servers with a lot of channels and clients.</source>
     <message numerus="yes">
         <source>%n file(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>%n 文件</numerusform>
         </translation>
     </message>
     <message>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>信息</translation>
     </message>
     <message numerus="yes">
         <source>Deleted %n file(s) with a total size of %1.</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
+            <numerusform>删除 %n 个文件，总大小为 %1。</numerusform>
         </translation>
     </message>
     <message>
         <source>No files deleted</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">没有文件被删除</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::ChangeAccountEmailDialog</name>
     <message>
         <source>Email successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">邮箱修改成功。</translation>
     </message>
     <message>
         <source>Failed to change email.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">更改邮箱失败。</translation>
     </message>
     <message>
         <source>Current password is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>当前密码为空</translation>
     </message>
     <message>
         <source>New email is empty</source>
-        <translation type="unfinished"></translation>
+        <translation>新邮箱为空</translation>
     </message>
     <message>
         <source>Email already in use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此邮箱正在使用</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::ChangeAccountPasswordDialog</name>
     <message>
         <source>Password successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>密码修改成功。</translation>
     </message>
     <message>
         <source>Failed to change password.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码修改失败。</translation>
     </message>
     <message>
         <source>Weak password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码强度弱</translation>
     </message>
     <message>
         <source>Good password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码强度一般</translation>
     </message>
     <message>
         <source>Strong password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码强度强</translation>
     </message>
     <message>
         <source>Forgot Password?</source>
-        <translation type="unfinished"></translation>
+        <translation>忘记密码？</translation>
     </message>
     <message>
         <source>Current password is empty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">当前密码为空</translation>
     </message>
     <message>
         <source>New password is empty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新密码为空</translation>
     </message>
     <message>
         <source>New password is too short, requires at least %1 characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新密码太短，至少需要 %1 个字符</translation>
     </message>
     <message>
         <source>Password is too long, maximium length is %1 characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">密码太长，最大长度为 %1 个字符</translation>
     </message>
     <message>
         <source>New passwords do not match</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新密码不匹配</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::ChangeAccountUsernameDialog</name>
     <message>
         <source>Username successfully changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>用户名修改成功。</translation>
     </message>
     <message>
         <source>Failed to change Username.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">用户名修改失败。</translation>
     </message>
     <message>
         <source>New Username is empty</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">新用户名为空</translation>
     </message>
     <message>
         <source>Username already in use</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">此用户名正在使用</translation>
     </message>
     <message>
         <source>Invalid username</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的用户名</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::FileTransferGroup</name>
     <message>
         <source>Invalid channel</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的频道</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::FileTransferManager</name>
     <message>
         <source>Select download folder</source>
-        <translation type="unfinished"></translation>
+        <translation>选择下载文件夹</translation>
     </message>
 </context>
 <context>
@@ -12742,18 +12739,18 @@ Useful for servers with a lot of channels and clients.</source>
     <name>com::teamspeak::ui::IntegrationBubble</name>
     <message>
         <source>Unknown (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>未知的 (%1)</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::IntegrationsWidget</name>
     <message>
         <source>Visit Dashboard</source>
-        <translation type="unfinished"></translation>
+        <translation>访问控制台</translation>
     </message>
     <message>
         <source>Add %1 account</source>
-        <translation type="unfinished"></translation>
+        <translation>添加 %1 账号</translation>
     </message>
 </context>
 <context>
@@ -12761,34 +12758,35 @@ Useful for servers with a lot of channels and clients.</source>
     <message>
         <source>The TeamSpeak server could not validate your myTeamSpeak ID.
 Some myTeamSpeak related services are not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>TeamSpeak 服务器无法验证您的 myTeamSpeak ID。
+某些 myTeamSpeak 相关服务将无法使用。</translation>
     </message>
     <message>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>重新连接</translation>
     </message>
 </context>
 <context>
     <name>com::teamspeak::ui::RedeemBadgeCodeDialog</name>
     <message>
         <source>Code successfully redeemed.</source>
-        <translation type="unfinished"></translation>
+        <translation>代码兑换成功。</translation>
     </message>
     <message>
         <source>Failed to redeem code.</source>
-        <translation type="unfinished"></translation>
+        <translation>兑换代码失败。</translation>
     </message>
     <message>
         <source>An error occured, try again later</source>
-        <translation type="unfinished"></translation>
+        <translation>发生了一个错误，请稍后再试</translation>
     </message>
     <message>
         <source>Invalid code</source>
-        <translation type="unfinished"></translation>
+        <translation>无效的代码</translation>
     </message>
     <message>
         <source>You already have this badge</source>
-        <translation type="unfinished"></translation>
+        <translation>你已经有这个徽章了</translation>
     </message>
 </context>
 <context>
@@ -12992,7 +12990,7 @@ Hint: Hold down SHIFT if you want to add channels recursively</source>
     </message>
     <message>
         <source>No Hotkey Assigned</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">未分配快捷键</translation>
     </message>
     <message>
         <source>Clients &amp; Channels</source>
@@ -13494,575 +13492,578 @@ Please contact the plugin author.</source>
     <name>connectDialog</name>
     <message>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接</translation>
     </message>
     <message>
         <source>Server Nickname or &amp;Address:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器别名或地址(&amp;A):</translation>
     </message>
     <message>
         <source>Server &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器密码(&amp;P):</translation>
     </message>
     <message>
         <source>Your requested nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>你请求使用的昵称</translation>
     </message>
     <message>
         <source>Nickname, Hostname or IP of the TeamSpeak 3 server,
 for example: voice.teamspeak.com:9987</source>
-        <translation type="unfinished"></translation>
+        <translation>TeamSpeak 3服务器的别名，主机名或IP，
+例如： voice.teamspeak.com：9987</translation>
     </message>
     <message>
         <source>Server password (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器密码 (可选)</translation>
     </message>
     <message>
         <source>&amp;Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>昵称(&amp;N):</translation>
     </message>
     <message>
         <source>[Too Short]</source>
-        <translation type="unfinished"></translation>
+        <translation>【长度过短】</translation>
     </message>
     <message>
         <source>One-time privilege key used after connecting.
 Once used, the privilege key will become invalid.</source>
-        <translation type="unfinished"></translation>
+        <translation>连接后使用的一次性权限密钥。
+使用后，权限密钥将失效。</translation>
     </message>
     <message>
         <source>Hotkey Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>快捷键配置:</translation>
     </message>
     <message>
         <source>Sending your myTeamSpeak ID grants you access to features like Twitch integration and other services</source>
-        <translation type="unfinished"></translation>
+        <translation>发送 myTeamSpeak ID 可授予您访问 Twitch 集成和其他服务的权限</translation>
     </message>
     <message>
         <source>Send myTeamSpeak ID</source>
-        <translation type="unfinished"></translation>
+        <translation>发送 myTeamSpeak ID</translation>
     </message>
     <message>
         <source>&amp;Default Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>默认频道(&amp;D):</translation>
     </message>
     <message>
         <source>&amp;Phonetic Nickname:</source>
-        <translation type="unfinished"></translation>
+        <translation>昵称音素(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Capture Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>录音配置(&amp;C):</translation>
     </message>
     <message>
         <source>&amp;Identity:</source>
-        <translation type="unfinished"></translation>
+        <translation>身份(&amp;I):</translation>
     </message>
     <message>
         <source>Join this channel on login (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时加入此频道 (可选)</translation>
     </message>
     <message>
         <source>Your nickname written as phonemes (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>你的昵称的读音 (可选)</translation>
     </message>
     <message>
         <source>Sound Pack:</source>
-        <translation type="unfinished"></translation>
+        <translation>音效包:</translation>
     </message>
     <message>
         <source>Password of default channel (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation>默认频道的密码 (可选)</translation>
     </message>
     <message>
         <source>One-Time &amp;Privilege Key:</source>
-        <translation type="unfinished"></translation>
+        <translation>一次性权限密钥(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Playback Profile:</source>
-        <translation type="unfinished"></translation>
+        <translation>播放配置(&amp;P):</translation>
     </message>
     <message>
         <source>Channel &amp;Password:</source>
-        <translation type="unfinished"></translation>
+        <translation>频道密码(&amp;P):</translation>
     </message>
     <message>
         <source>&amp;Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>连接(&amp;C)</translation>
     </message>
     <message>
         <source>In New &amp;Tab</source>
-        <translation type="unfinished"></translation>
+        <translation>在新的标签中(&amp;T)</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
     <name>createProfileDialog</name>
     <message>
         <source>Create Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>创建配置档案</translation>
     </message>
     <message>
         <source>Profile Name:</source>
-        <translation type="unfinished"></translation>
+        <translation>配置名称：</translation>
     </message>
     <message>
         <source>Create Profile Using:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">基于配置创建：</translation>
     </message>
     <message>
         <source>Default Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>默认设置</translation>
     </message>
     <message>
         <source>Profile Copy from:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">从现有配置复制：</translation>
     </message>
 </context>
 <context>
     <name>downloadSetupDialog</name>
     <message>
         <source>Download Location</source>
-        <translation type="unfinished"></translation>
+        <translation>下载位置</translation>
     </message>
     <message>
         <source>Download Folder:</source>
-        <translation type="unfinished"></translation>
+        <translation>下载文件夹:</translation>
     </message>
     <message>
         <source>Always save to this folder</source>
-        <translation type="unfinished"></translation>
+        <translation>始终保存到此文件夹</translation>
     </message>
     <message>
         <source>Ask for save folder on every download</source>
-        <translation type="unfinished"></translation>
+        <translation>在每次下载时询问保存文件夹位置</translation>
     </message>
     <message>
         <source>Change</source>
-        <translation type="unfinished"></translation>
+        <translation>改变</translation>
     </message>
     <message>
         <source>Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>界面</translation>
     </message>
     <message>
         <source>Show file transfers window when a download starts</source>
-        <translation type="unfinished"></translation>
+        <translation>下载开始时显示文件传输窗口</translation>
     </message>
     <message>
         <source>Close file transfers window when all downloads are finished</source>
-        <translation type="unfinished"></translation>
+        <translation>所有下载完成后关闭文件传输窗口</translation>
     </message>
     <message>
         <source>Display tray icon balloon message when file transfer finishes</source>
-        <translation type="unfinished"></translation>
+        <translation>文件传输完成后显示托盘气泡</translation>
     </message>
     <message>
         <source>Upload Bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>上传带宽</translation>
     </message>
     <message>
         <source>Do not limit</source>
-        <translation type="unfinished"></translation>
+        <translation>不限制</translation>
     </message>
     <message>
         <source>Limit to</source>
-        <translation type="unfinished"></translation>
+        <translation>限制到</translation>
     </message>
     <message>
         <source>KiB/s</source>
-        <translation type="unfinished"></translation>
+        <translation>KiB/s</translation>
     </message>
     <message>
         <source>Download Bandwidth</source>
-        <translation type="unfinished"></translation>
+        <translation>下载带宽</translation>
     </message>
     <message>
         <source>Simultaneous Uploads</source>
-        <translation type="unfinished"></translation>
+        <translation>同时上传</translation>
     </message>
     <message>
         <source>Simultaneous Downloads</source>
-        <translation type="unfinished"></translation>
+        <translation>同时下载</translation>
     </message>
 </context>
 <context>
     <name>guiSetupDialog</name>
     <message>
         <source>Style</source>
-        <translation type="unfinished"></translation>
+        <translation>风格</translation>
     </message>
     <message>
         <source>Select style of TeamSpeak</source>
-        <translation type="unfinished"></translation>
+        <translation>选择 TeamSpeak 的界面风格</translation>
     </message>
     <message>
         <source>System default</source>
-        <translation type="unfinished"></translation>
+        <translation>系统默认</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>主题</translation>
     </message>
     <message>
         <source>Select stylesheet from &quot;styles&quot; directory</source>
-        <translation type="unfinished"></translation>
+        <translation>从“风格”目录中选择样式</translation>
     </message>
     <message>
         <source>Icon Pack</source>
-        <translation type="unfinished"></translation>
+        <translation>图标包</translation>
     </message>
     <message>
         <source>Visit TeamSpeak Addons webpage</source>
-        <translation type="unfinished"></translation>
+        <translation>访问 TeamSpeak Addons 网站</translation>
     </message>
     <message>
         <source>Transparency</source>
-        <translation type="unfinished"></translation>
+        <translation>透明度</translation>
     </message>
     <message>
         <source>Transparency of main window</source>
-        <translation type="unfinished"></translation>
+        <translation>主窗口的透明度</translation>
     </message>
     <message>
         <source>Channel Tree</source>
-        <translation type="unfinished"></translation>
+        <translation>频道树</translation>
     </message>
     <message>
         <source>Expand the complete channel tree when logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时展开完整的频道树。</translation>
     </message>
     <message>
         <source>Expand all channels on login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时展开所有频道树</translation>
     </message>
     <message>
         <source>Expand channels up to this level when logging in.
 0 means expand everything.</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时将频道展开到此级别。
+0 意味着展开全部频道。</translation>
     </message>
     <message>
         <source>Expand channels up to this level:</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时将频道展开到此级别:</translation>
     </message>
     <message>
         <source>Only expand your own channel when logging in.</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时只展开您自己的频道。</translation>
     </message>
     <message>
         <source>Expand own channel on login</source>
-        <translation type="unfinished"></translation>
+        <translation>登录时展开自己的频道</translation>
     </message>
     <message>
         <source>Sort clients below channels</source>
-        <translation type="unfinished"></translation>
+        <translation>排序频道中的用户</translation>
     </message>
     <message>
         <source>Display country flag on clients</source>
-        <translation type="unfinished"></translation>
+        <translation>在用户旁显示国旗(根据IP)</translation>
     </message>
     <message>
         <source>Display Overwolf icons on clients</source>
-        <translation type="unfinished"></translation>
+        <translation>在用户旁显示 Overwolf 图标</translation>
     </message>
     <message>
         <source>Show channel commander as lamp</source>
-        <translation type="unfinished"></translation>
+        <translation>显示频道指挥官标志</translation>
     </message>
     <message>
         <source>Show away message beside nickname</source>
-        <translation type="unfinished"></translation>
+        <translation>在昵称旁显示离线信息</translation>
     </message>
     <message>
         <source>Show tooltip info on hover</source>
-        <translation type="unfinished"></translation>
+        <translation>在悬停时显示工具提示信息</translation>
     </message>
     <message>
         <source>Tray Icon</source>
-        <translation type="unfinished"></translation>
+        <translation>状态栏图标</translation>
     </message>
     <message>
         <source>Hide tray icon</source>
-        <translation type="unfinished"></translation>
+        <translation>隐藏状态栏图标</translation>
     </message>
     <message>
         <source>Hide TeamSpeak to tray icon when minimized</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化时隐藏 TeamSpeak 到状态栏图标</translation>
     </message>
     <message>
         <source>Minimize to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>最小化到状态栏</translation>
     </message>
     <message>
         <source>Hide TeamSpeak to tray icon when closed</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭时隐藏 TeamSpeak 到状态栏</translation>
     </message>
     <message>
         <source>Close to tray</source>
-        <translation type="unfinished"></translation>
+        <translation>关闭到状态栏</translation>
     </message>
     <message>
         <source>Animated GIF support</source>
-        <translation type="unfinished"></translation>
+        <translation>动画 GIF 支持</translation>
     </message>
     <message>
         <source>Enable Animated Avatars</source>
-        <translation type="unfinished"></translation>
+        <translation>启用动态头像</translation>
     </message>
     <message>
         <source>Enable Animated Images</source>
-        <translation type="unfinished"></translation>
+        <translation>启用动态图片</translation>
     </message>
 </context>
 <context>
     <name>passwordDialog</name>
     <message>
         <source>Channel Password</source>
-        <translation type="unfinished"></translation>
+        <translation>频道密码</translation>
     </message>
     <message>
         <source>Enter Password for Channel:</source>
-        <translation type="unfinished"></translation>
+        <translation>输入频道的密码：</translation>
     </message>
 </context>
 <context>
     <name>playbackSoundSetupDialog</name>
     <message>
         <source>Profile Details</source>
-        <translation type="unfinished"></translation>
+        <translation>配置详情</translation>
     </message>
     <message>
         <source>Playback Mode:</source>
-        <translation type="unfinished"></translation>
+        <translation>回放模式:</translation>
     </message>
     <message>
         <source>Playback Device:</source>
-        <translation type="unfinished"></translation>
+        <translation>回放设备:</translation>
     </message>
     <message>
         <source>Play a sound to test your playback settings</source>
-        <translation type="unfinished"></translation>
+        <translation>播放测试音以测试播放设置</translation>
     </message>
     <message>
         <source>Mono Sound Expansion</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道扩展</translation>
     </message>
     <message>
         <source>Mono to stereo</source>
-        <translation type="unfinished"></translation>
+        <translation>单声道转立体声</translation>
     </message>
     <message>
         <source>Mono to center speaker (if available)</source>
-        <translation type="unfinished"></translation>
+        <translation>转换单声道为立体声（如果可用）</translation>
     </message>
     <message>
         <source>Mono to surround (if available)</source>
-        <translation type="unfinished"></translation>
+        <translation>转换单声道为环绕（如果可用）</translation>
     </message>
     <message>
         <source>Options</source>
-        <translation type="unfinished"></translation>
+        <translation>选项</translation>
     </message>
     <message>
         <source>Always set clients 3D positions when available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">始终在可用时安排用户的3D空间位置</translation>
     </message>
     <message>
         <source>Own client plays mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在自己的客户端播放麦克风开关声</translation>
     </message>
     <message>
         <source>Other clients play mic clicks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">在其他用户的客户端播放麦克风开关声</translation>
     </message>
 </context>
 <context>
     <name>securitySetupDialog</name>
     <message>
         <source>Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>密码</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;Save channel passwords to your computer.&lt;BR/&gt;This might pose a security risk if anyone can access the passwords file.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p style=&apos;white-space:pre&apos;&gt;将频道密码保存到您的计算机。&lt;BR/&gt;如果任何人都可以访问密码文件，这可能会带来安全风险。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Save channel passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>保存频道密码</translation>
     </message>
     <message>
         <source>Clear Channel Passwords</source>
-        <translation type="unfinished"></translation>
+        <translation>清除频道密码</translation>
     </message>
     <message>
         <source>Use a master password</source>
-        <translation type="unfinished"></translation>
+        <translation>使用主密码</translation>
     </message>
     <message>
         <source>Change Master Password</source>
-        <translation type="unfinished"></translation>
+        <translation>更改主密码</translation>
     </message>
     <message>
         <source>Cleanup</source>
-        <translation type="unfinished"></translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Clear cache when client closes</source>
-        <translation type="unfinished"></translation>
+        <translation>当客户端关闭时清除缓存</translation>
     </message>
     <message>
         <source>Clear Cache on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出时清除缓存</translation>
     </message>
     <message>
         <source>Clear collected URLs when client closes</source>
-        <translation type="unfinished"></translation>
+        <translation>客户端关闭时清除收集的URL</translation>
     </message>
     <message>
         <source>Clear URLs on exit</source>
-        <translation type="unfinished"></translation>
+        <translation>退出时清除URLs</translation>
     </message>
     <message>
         <source>Clear Cache</source>
-        <translation type="unfinished"></translation>
+        <translation>清除缓存</translation>
     </message>
     <message>
         <source>Identities</source>
-        <translation type="unfinished"></translation>
+        <translation>身份标识</translation>
     </message>
     <message>
         <source>Manage user identities</source>
-        <translation type="unfinished"></translation>
+        <translation>管理用户身份标识</translation>
     </message>
     <message>
         <source>Identity Manager</source>
-        <translation type="unfinished"></translation>
+        <translation>用户标识管理器</translation>
     </message>
 </context>
 <context>
     <name>sound3Dwidget</name>
     <message>
         <source>3D Sound</source>
-        <translation type="unfinished"></translation>
+        <translation>3D 音效</translation>
     </message>
     <message>
         <source>Select Client</source>
-        <translation type="unfinished"></translation>
+        <translation>用户选择</translation>
     </message>
     <message>
         <source>x: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>x: 0</translation>
     </message>
     <message>
         <source>y: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>y: 0</translation>
     </message>
     <message>
         <source>z: 0</source>
-        <translation type="unfinished"></translation>
+        <translation>z: 0</translation>
     </message>
     <message>
         <source>Add Channel Commander</source>
-        <translation type="unfinished"></translation>
+        <translation>添加频道管理员</translation>
     </message>
     <message>
         <source>Add Server Group</source>
-        <translation type="unfinished"></translation>
+        <translation>添加服务器组</translation>
     </message>
     <message>
         <source>Add Channel Group</source>
-        <translation type="unfinished"></translation>
+        <translation>添加频道组</translation>
     </message>
     <message>
         <source>Arrange Clients</source>
-        <translation type="unfinished"></translation>
+        <translation>用户排列</translation>
     </message>
     <message>
         <source>Center Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>居中选中</translation>
     </message>
     <message>
         <source>Center All</source>
-        <translation type="unfinished"></translation>
+        <translation>居中所有</translation>
     </message>
     <message>
         <source>All Around Me</source>
-        <translation type="unfinished"></translation>
+        <translation>所有环绕我</translation>
     </message>
     <message>
         <source>Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>半径</translation>
     </message>
     <message>
         <source>Angle</source>
-        <translation type="unfinished"></translation>
+        <translation>角度</translation>
     </message>
     <message>
         <source>Test Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>测试模式</translation>
     </message>
     <message>
         <source>Add Test User</source>
-        <translation type="unfinished"></translation>
+        <translation>添加测试用户</translation>
     </message>
     <message>
         <source>Rotate Radius</source>
-        <translation type="unfinished"></translation>
+        <translation>旋转半径</translation>
     </message>
     <message>
         <source>Rotate Around Oneself</source>
-        <translation type="unfinished"></translation>
+        <translation>围绕用户旋转</translation>
     </message>
     <message>
         <source>Rotate Around Me</source>
-        <translation type="unfinished"></translation>
+        <translation>围绕我旋转</translation>
     </message>
     <message>
         <source>Rotate Around Center</source>
-        <translation type="unfinished"></translation>
+        <translation>围绕中心旋转</translation>
     </message>
     <message>
         <source>Selected only</source>
-        <translation type="unfinished"></translation>
+        <translation>选中</translation>
     </message>
     <message>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation>全部</translation>
     </message>
     <message>
         <source>Clockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>顺时针</translation>
     </message>
     <message>
         <source>Counterclockwise</source>
-        <translation type="unfinished"></translation>
+        <translation>逆时针</translation>
     </message>
     <message>
         <source>Start Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>开始旋转</translation>
     </message>
     <message>
         <source>Stop Rotation</source>
-        <translation type="unfinished"></translation>
+        <translation>结束旋转</translation>
     </message>
     <message>
         <source>Toggle borders</source>
-        <translation type="unfinished"></translation>
+        <translation>切换边界</translation>
     </message>
     <message>
         <source>Play test sound</source>
-        <translation type="unfinished"></translation>
+        <translation>播放测试音</translation>
     </message>
     <message>
         <source>Enable 3D sound</source>
-        <translation type="unfinished"></translation>
+        <translation>开启3D音效</translation>
     </message>
     <message>
         <source>Disband overlapping text</source>
-        <translation type="unfinished"></translation>
+        <translation>解除叠加文本</translation>
     </message>
 </context>
 </TS>
