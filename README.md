@@ -6,6 +6,7 @@ TeamSpeak 3 简体中文翻译源文件
 ## 协助翻译
 使用 Qt Linguist 程序打开ts源文件即可
 
+<<<<<<< HEAD
 ### 一些翻译上的约定（暂定）
 1. 带快捷键的条目，如 `&Options` 需翻译为 `名称(快捷键)` 的形式，小括号，不带空格: `设置(&O)`
 2. 描述性的条目含有括号时，翻译文本使用大括号。<br>
@@ -16,3 +17,11 @@ TeamSpeak 3 简体中文翻译源文件
 
 ## 使用方法
 待更新
+=======
+## 由于现在Teamspeak 官网开始支持中文，不确定teamspeak5 是否会直接官方支持简体中文，故暂停翻译至teamspeak5发布(按照官方之前的说法会在2018 Q4发布)
+##### （按照论坛内的推测，会在12月中旬发布
+
+https://www.teamspeak.com/zh-CN/
+
+![TeamSpeak HomePage(zh-CN)](https://uv.uy/1vpfV)
+>>>>>>> parent of 62df611... Update README.md
